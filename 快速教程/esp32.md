@@ -11,6 +11,7 @@
 - [UART](#UART)
 - [PWM](#PWM)
 - [ADC](#ADC)
+- [DAC](#DAC)
 - [Software SPI bus](#SoftwareSPIbus)
 - [Hardware SPI bus](#HardwareSPIbus)
 - [Software I2C bus](#SoftwareI2Cbus)
@@ -215,6 +216,14 @@ adc.read()                  # read value, 0-4095 across voltage range 0.0v - 1.0
 adc.atten(ADC.ATTN_11DB)    # set 11dB input attenuation (voltage range roughly 0.0v - 3.6v)
 adc.width(ADC.WIDTH_9BIT)   # set 9 bit return values (returned range 0-511)
 adc.read()                  # read value using the newly configured attenuation and width
+```
+
+### <a name='DAC'>DAC
+在esp32上，引脚25、26用于DAC；而在esp32s2上，DAC引脚是17、18；esp32c3/esp32s3等上没有DAC功能。
+```py
+from machine import DAC, Pin
+dac = DAC(Pin(25))
+dac.write(128)
 ```
 
 ### <a name='SoftwareSPIbus'>Software SPI bus</a>

@@ -11,6 +11,11 @@
 - [其它](其它)
 
 
-[micropython 中文资料](https://gitee.com/shaoziyang/micropython-chinese-resources) 由 [micropython 中文社区](https://micropython.org.cn) 收集整理
+
+## 链接
+- [gitee 版](https://gitee.com/shaoziyang/micropython-chinese-resources) 
+- [飞书文档](https://fewt527yl3.feishu.cn/wiki/wikcnthAXg2xVZvVtUZ7aR8n8Ob)
+
+由 [micropython 中文社区](https://micropython.org.cn) 收集整理编写
 
 ![](mpycn.png)

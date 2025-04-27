@@ -7,7 +7,7 @@
 - [技巧](技巧/readme.md)
 - [图书](图书/readme.md)
 - [固件](固件/readme.md)
-- [版本](版本/版本.md)
+- [版本](版本/readme.md)
 - [circuitpython](circuitpython/readme.md)
 - [其它](其它)
 

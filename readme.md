@@ -15,7 +15,8 @@
 
 
 ## 链接
-- [gitee 版](https://gitee.com/shaoziyang/micropython-chinese-resources) 
+- [gitee 版](https://gitee.com/shaoziyang/micropython-chinese-resources)
+- [github 版](https://github.com/shaoziyang/micropython-chinese-resources)，更新可能滞后于 gitee
 - [飞书文档版](https://fewt527yl3.feishu.cn/wiki/wikcnthAXg2xVZvVtUZ7aR8n8Ob)
 - [社区在线版](https://www.micropython.org.cn/wiki/micropython)
 

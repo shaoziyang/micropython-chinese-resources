@@ -9,8 +9,8 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 
 硬件接口库中最主要的库是machine，它包含了大部分的底层硬件功能接口，包括定时器、RTC、串口、I2C、SPI等，每个功能模块都有一个单独的子类，方便引用。在STM32上稍有区别，因为历史原因和硬件架构，目前部分硬件功能接口放在pyb库中，而不是machine中，有的功能虽然在machine中也有（比如Timer），但是功能和pyb中并完全不相同。此外每种控制器还有自己的专有库，如STM32的stm库，esp8266的esp库，esp32控制器的esp32库等，它们包含了硬件更底层的功能接口，比如flash读写。
 
-- [异常](异常（exception）/readme.md)
-- [数组](数组（array）/readme.md)
-- [内置函数](内置函数/readme.md)
+- [exception（异常）](exception（异常）/readme.md)
+- [array（数组）](array（数组）/readme.md)
+- [builtins （内置函数）](builtins （内置函数）/readme.md)
 - [binascii（binary/ASCII 转换）](binascii/readme.md)
 

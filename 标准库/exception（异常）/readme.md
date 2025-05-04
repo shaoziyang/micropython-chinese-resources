@@ -1,4 +1,4 @@
-# 异常（exception）
+# exception（异常）
 
 强大的异常处理能力是python的一大特点。micropython同样继承了这一特点，目前micropython中包含了下面预定义的异常：
 

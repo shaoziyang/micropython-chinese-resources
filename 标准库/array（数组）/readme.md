@@ -1,4 +1,4 @@
-# 数组（array）
+# array（数组）
 
 MicroPython的array模块是标准python的array模块简化版本，它提供了数组基本的定义方法和使用方法。
 

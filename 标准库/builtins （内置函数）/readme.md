@@ -1,4 +1,4 @@
-# 内置函数
+# builtins （内置函数）
 
 下面是MicroPython的内置函数列表：
 

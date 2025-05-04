@@ -11,3 +11,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 
 - [异常](异常（exception）/readme.md)
 - [数组](数组（array）/readme.md)
+- [内置函数](内置函数/readme.md)

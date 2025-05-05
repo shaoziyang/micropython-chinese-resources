@@ -21,3 +21,6 @@
     - [论坛](https://forums.adafruit.com/index.php)
     - [博客](https://blog.adafruit.com/)
 - [**<span style="color: #ffb522;">micropython中文社区</span>**](https://www.micropython.org.cn/)
+    - [中文社区交流](https://github.com/shaoziyang/micropython-chinese-resources/discussions)
+    - 社区微信公众号  
+    ![](wxgzh.webp)

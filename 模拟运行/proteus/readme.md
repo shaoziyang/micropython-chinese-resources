@@ -2,7 +2,11 @@
 
 Proteus 的 micropython 仿真程序，可以快速测试各种传感器、模块、外围设备，以及验证算法。
 
-注意:
+**项目地址**：
+- [github](https://github.com/shaoziyang/proteus-program-for-micropython)
+- [gitee](https://gitee.com/shaoziyang/proteus-program-for-micropython)
+
+**注意**:
 - 需要 Proteus 8.17 sp4 或更高版本。
 - 仿真不能完全代替实际硬件。
 

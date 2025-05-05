@@ -14,3 +14,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [builtins（内置函数）](builtins（内置函数）/readme.md)
 - [binascii（binary/ASCII 转换）](binascii/readme.md)
 - [cmath（复数运算）](cmath（复数运算）/readme.md)
+- [collections（集合和容器类型）](collections/readme.md)

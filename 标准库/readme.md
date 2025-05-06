@@ -16,3 +16,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [cmath（复数运算）](cmath（复数运算）/readme.md)
 - [collections（集合和容器类型）](collections/readme.md)
 - [errno（系统错误码）](errno（系统错误码）/readme.md)
+- [gc（垃圾回收）](gc（垃圾回收）/readme.md)

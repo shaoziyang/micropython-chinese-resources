@@ -18,3 +18,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [errno（系统错误码）](errno（系统错误码）/readme.md)
 - [gc（垃圾回收）](gc（垃圾回收）/readme.md)
 - [gzip（压缩和解压缩）](gzip（压缩和解压缩）/readme.md)
+- [hashlib（哈希算法库）](hashlib（哈希算法库）/readme.md)

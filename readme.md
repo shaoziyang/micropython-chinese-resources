@@ -1,6 +1,6 @@
 # micropython 中文资料
 
-![](mpy.png)
+![](cover.webp)
 
 - [快速教程](快速教程/readme.md)
 - [主要链接](主要链接/readme.md)

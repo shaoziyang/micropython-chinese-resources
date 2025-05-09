@@ -22,3 +22,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [heapq（堆队列算法）](heapq（堆队列算法）/readme.md)
 - [io（输入输出流）](io（输入输出流）/readme.md)
 - [json（JSON 编码解码）](json/readme.md)
+- [marshal（Python 对象序列化）](marshal/readme.md)

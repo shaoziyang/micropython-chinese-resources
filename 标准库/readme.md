@@ -24,3 +24,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [json（JSON 编码解码）](json/readme.md)
 - [marshal（Python 对象序列化）](marshal/readme.md)
 - [math（数学函数）](math（数学函数）/readme.md)
+- [os（"操作系统"基础服务）](os/readme.md)

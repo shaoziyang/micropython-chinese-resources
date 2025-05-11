@@ -27,3 +27,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [os（"操作系统"基础服务）](os/readme.md)
 - [platform（硬件平台标识）](platform/readme.md)
 - [random（随机数）](random/readme.md)
+- [re（简单正则表达式）](re/readme.md)

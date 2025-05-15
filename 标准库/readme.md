@@ -33,3 +33,4 @@ micropython系统库按照功能大致可以分为硬件接口库和通用库两
 - [ssl（SSL/TLS 模块）](ssl/readme.md)
 - [struct（打包和解包基本数据类型）](struct/readme.md)
 - [sys（系统特定功能）](sys/readme.md)
+- [time（时间函数）](time/readme.md)

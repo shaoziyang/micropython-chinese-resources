@@ -8,6 +8,7 @@
 - [模拟运行](模拟运行/readme.md)
 - [编译源码](编译源码/readme.md)
 - [技巧](技巧/readme.md)
+- [创意和应用](创意和应用/readme.md)
 - [图书](图书/readme.md)
 - [固件](固件/readme.md)
 - [版本](版本/readme.md)

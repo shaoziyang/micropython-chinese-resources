@@ -295,7 +295,7 @@ asyncio.run(main(Pin(1), Pin(2)))
 
 ## Event Loop
 
-- asyncio.`get_event_loop()
+- asyncio.`get_event_loop`()
 
   返回用于调度和运行任务的事件循环。 
 <br><br>

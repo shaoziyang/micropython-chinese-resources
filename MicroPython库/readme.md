@@ -10,3 +10,6 @@ MicroPython 系统库按照功能大致可以分为 MicroPython 标准库、 Mic
 MicroPython 专用库中最主要的模块是 machine，它包含了大部分的底层硬件功能接口，包括定时器、RTC、串口、I2C、SPI等，每个功能模块都有一个单独的子类，方便引用。在 STM32 上稍有区别，因为历史原因和硬件架构，目前部分硬件功能接口放在硬件专属库 pyb 中，而不是 machine 中，有的功能虽然在 machine 中也有（比如Timer），但是功能和 pyb 中并完全不相同（以后可能会发生变化）。
 
 虽然不同的控制器包含的功能有一定差异，但是 MicroPython 尽可能的提供了统一的接口方式，因此在编程时移植时，比其它语言更加简单方便。
+
+- [MicroPython 标准库](标准库/readme.md)
+- [MicroPython 专用库](专用库/readme.md)

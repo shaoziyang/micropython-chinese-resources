@@ -15,7 +15,8 @@ select 模块实现了 CPython 相应模块的子集，提供了高效率等待�
 <br><br>
 
 ## class Poll
-#### 方法
+
+### 方法
 
 - poll.`register`(obj[, eventmask])
 

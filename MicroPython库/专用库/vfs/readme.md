@@ -38,7 +38,7 @@ vfs 模块包含用于创建文件系统对象并在虚拟文件系统中挂载 
     在 `block_dev` 上构建 FAT 文件系统。  
 
 
-- class vfs.VfsLfs1(block_dev, readsize=32, progsize=32, lookahead=32)  
+- class vfs.`VfsLfs1`(block_dev, readsize=32, progsize=32, lookahead=32)  
 
   创建一个使用 [littlefs v1 文件系统格式](https://github.com/ARMmbed/littlefs/tree/v1)的文件系统对象。littlefs 文件系统的存储由**block_dev**提供，该块设备必须支持扩展接口。通过此构造函数创建的对象可使用 `mount()` 进行挂载。  
 
@@ -51,7 +51,7 @@ vfs 模块包含用于创建文件系统对象并在虚拟文件系统中挂载 
     有报告称 littlefs v1 在某些情况下会出现故障，详细信息请参见 [littlefs问题347](https://github.com/ARMmbed/littlefs/issues/347)。  
 
 
-- class vfs.VfsLfs2(block_dev, readsize=32, progsize=32, lookahead=32, mtime=True)  
+- class vfs.`VfsLfs2`(block_dev, readsize=32, progsize=32, lookahead=32, mtime=True)  
 
   创建一个使用 [littlefs v2 文件系统格式](https://github.com/ARMmbed/littlefs)的文件系统对象。littlefs 文件系统的存储由**block_dev**提供，该块设备必须支持扩展接口。通过此构造函数创建的对象可使用 `mount()` 进行挂载。  
 
@@ -66,7 +66,7 @@ vfs 模块包含用于创建文件系统对象并在虚拟文件系统中挂载 
     有报告称 littlefs v2 在某些情况下会出现故障，详细信息请参见 [littlefs问题295](https://github.com/ARMmbed/littlefs/issues/295)。  
 
 
-- class vfs.VfsPosix(root=None)  
+- class vfs.`VfsPosix`(root=None)  
 
   创建一个访问主机 POSIX 文件系统的文件系统对象。  若指定 `root` 参数，则应为主机文件系统中用作 VfsPosix 对象根目录的路径；若未指定，则使用主机文件系统的当前目录。
 

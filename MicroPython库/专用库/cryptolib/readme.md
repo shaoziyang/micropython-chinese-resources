@@ -11,9 +11,9 @@
     参数说明：
     - `key`：加密 / 解密密钥（类字节对象）。
     - `mode`：
-      – 1（或 cryptolib.MODE_ECB）：电子密码本模式（ECB）。
-      – 2（或 cryptolib.MODE_CBC）：密码块链接模式（CBC）。
-      – 6（或 cryptolib.MODE_CTR）：计数器模式（CTR）。
+      - 1（或 cryptolib.MODE_ECB）：电子密码本模式（ECB）。
+      - 2（或 cryptolib.MODE_CBC）：密码块链接模式（CBC）。
+      - 6（或 cryptolib.MODE_CTR）：计数器模式（CTR）。
     - `IV`：CBC 模式下的初始化向量；CTR 模式下为计数器初始值。
 <br><br>  
   - `encrypt`(in_buf[, out_buf])

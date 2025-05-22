@@ -424,7 +424,7 @@ GATT 客户端可以发现并读写远程 GATT 服务器上的特征（character
 
 中央设备角色作为 GATT 客户端更为常见，但外围设备也可以作为客户端，用于发现连接到它的中央设备的信息（例如，从设备信息服务中读取设备名称）。  
 
-- BLE.gattc_discover_services`(conn_handle, uuid=None, / )  
+- BLE.`gattc_discover_services`(conn_handle, uuid=None, / )  
 
   查询已连接服务器的服务。  
   

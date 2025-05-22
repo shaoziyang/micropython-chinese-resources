@@ -3,5 +3,6 @@
 MicroPython 专用库提供了 MicroPython 实现的特有功能，特别是通用硬件层的接口。
 
 - [bluetooth（底层蓝牙）](bluetooth/readme.md)
+- [btree（简单 B 树数据库）](btree/readme.md)
 - [cryptolib（密码）](cryptolib/readme.md)
 - [vfs（虚拟文件系统）](vfs/readme.md)

@@ -39,6 +39,7 @@ MicroPython 编程方面的相关书籍。
 <hr>
 
 * [MicroPython Cookbook: Over 110 practical recipes for programming embedded systems and microcontrollers with Python](https://www.amazon.com/MicroPython-Cookbook-practical-programming-microcontrollers-ebook/dp/B07QXT664P)
+* [code repository for MicroPython Cookbook](https://github.com/PacktPublishing/MicroPython-Cookbook)
 
 ![](microPython_cookbook.webp)
 

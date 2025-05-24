@@ -43,4 +43,8 @@ MicroPython 编程方面的相关书籍。
 
 ![](microPython_cookbook.webp)
 
+<hr>
 
+* [MicroPython Projects: A do-it-yourself guide for embedded developers to build a range of applications using Python](https://www.amazon.com/MicroPython-Projects-do-yourself-applications/dp/1789958032)
+
+![](micropython_projects.webp)

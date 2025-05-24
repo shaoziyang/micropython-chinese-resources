@@ -48,3 +48,21 @@ MicroPython 编程方面的相关书籍。
 * [MicroPython Projects: A do-it-yourself guide for embedded developers to build a range of applications using Python](https://www.amazon.com/MicroPython-Projects-do-yourself-applications/dp/1789958032)
 
 ![](micropython_projects.webp)
+
+<hr>
+
+* [MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python](https://www.amazon.com/MicroPython-Raspberry-Pico-introduction-programming/dp/B0BKSCV18D)
+
+![](micropython_for_the_raspberry_pi_pico_w.webp)
+
+<hr>
+
+* [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers](https://www.amazon.com/MicroPython-Internet-Things-Programming-Microcontrollers-ebook/dp/B0CRGM5QMQ)
+
+![](micropython_for_the_internet_of_things.webp)
+
+<hr>
+
+* [MicroPython Inline Assembler By Example](https://www.amazon.com/MicroPython-Inline-Assembler-Example-Magda-ebook/dp/B07ZQLSJHF)
+
+![](micropython_inline_assembler_by_example.webp)

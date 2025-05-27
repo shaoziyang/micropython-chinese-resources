@@ -15,11 +15,13 @@
       - 2（或 cryptolib.MODE_CBC）：密码块链接模式（CBC）。
       - 6（或 cryptolib.MODE_CTR）：计数器模式（CTR）。
     - `IV`：CBC 模式下的初始化向量；CTR 模式下为计数器初始值。
-<br><br>  
+<br><br>
+
   - `encrypt`(in_buf[, out_buf])
   
     对 `in_buf` 进行加密。若未指定 `out_buf`，结果将作为新分配的字节对象返回；否则，结果将写入可变缓冲区 `out_buf`。`in_buf` 和 `out_buf` 可指向同一缓冲区，此时数据将原地加密。
-<br><br>  
+<br><br>
+
   - `decrypt`(in_buf[, out_buf])
   
     功能与 `encrypt()` 类似，但用于解密操作。

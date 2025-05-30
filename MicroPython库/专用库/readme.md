@@ -11,3 +11,4 @@ MicroPython 专用库提供了 MicroPython 实现的特有功能，特别是通�
 - [neopixel（WS2812/NeoPixel 控制）](neopixel/readme.md)
 - [openamp（标准非对称多处理 (AMP) 支持）](openamp/readme.md)
 - [vfs（虚拟文件系统）](vfs/readme.md)
+- [WM8960（WM8960编解码器驱动）](wm8960/readme.md)

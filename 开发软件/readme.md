@@ -6,3 +6,4 @@
 
 - [Thonny](thonny/readme.md)
 - [Mu Editor](mu/readme.md)
+- [MPY Blockly](mpyblockly/readme.md)

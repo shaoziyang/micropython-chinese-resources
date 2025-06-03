@@ -7,4 +7,5 @@
 - [Thonny](thonny/readme.md)
 - [Mu Editor](mu/readme.md)
 - [MPY Blockly](mpyblockly/readme.md)
+- [micro:bit Python Editor](pythoneditor/readme.md)
 - [ViperIDE](viperide/readme.md)

@@ -4,8 +4,14 @@
 
 目前 MicroPython 常用的开发软件分在线版和本地版。本地版软件是普通计算机上运行的专用软件，需要下载安装软件，功能更多，速度更快；而在线版就是直接在浏览器中运行，无需安装任何软件，可以在不同操作系统和各种设备上使用，但是功能可能会有限制。
 
+**IDE**
 - [Thonny](thonny/readme.md)
 - [Mu Editor](mu/readme.md)
+
+**图形化编程**
 - [MPY Blockly](mpyblockly/readme.md)
+
+**在线工具**
 - [micro:bit Python Editor](pythoneditor/readme.md)
 - [ViperIDE](viperide/readme.md)
+

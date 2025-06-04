@@ -15,3 +15,5 @@
 - [micro:bit Python Editor](pythoneditor/readme.md)
 - [ViperIDE](viperide/readme.md)
 
+**其它**
+- [模拟运行](模拟运行/readme.md)

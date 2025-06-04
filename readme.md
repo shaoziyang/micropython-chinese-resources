@@ -6,7 +6,6 @@
 - [主要链接](主要链接/readme.md)
 - [开发软件](开发软件/readme.md)
 - [MicroPython 库](MicroPython库/readme.md)
-- [模拟运行](模拟运行/readme.md)
 - [编译源码](编译源码/readme.md)
 - [技巧](技巧/readme.md)
 - [创意和应用](创意和应用/readme.md)

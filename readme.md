@@ -5,6 +5,7 @@
 - [教程](教程/readme.md)
 - [主要链接](主要链接/readme.md)
 - [开发软件](开发软件/readme.md)
+- [开发板](开发板/readme.md)
 - [MicroPython 库](MicroPython库/readme.md)
 - [编译源码](编译源码/readme.md)
 - [技巧](技巧/readme.md)

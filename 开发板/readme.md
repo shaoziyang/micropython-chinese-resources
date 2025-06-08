@@ -8,3 +8,4 @@
 
 ## [esp32](esp32/readme.md)
 - [ESP32-DevKitC](esp32/esp32-devkitc/readme.md)
+- [ESP32 S2 mini](esp32/esp32-s2-mini/readme.md)

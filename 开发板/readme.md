@@ -2,5 +2,7 @@
 
 可以运行 micropython 的各种开发板。
 
-- [pyboard](pyboard/readme.md)
+## [stm32](stm32/readme.md)
+- [pyboard](stm32/pyboard/readme.md)
+
 

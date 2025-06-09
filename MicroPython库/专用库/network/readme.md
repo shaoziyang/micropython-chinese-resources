@@ -184,8 +184,8 @@ nic.connect('你的-SSID', '你的-密钥')
     - `3`：WPA2-PSK  
     - `4`：WPA/WPA2-PSK  
   - `hidden` 取值：  
-  - `0`：可见
-  - `1`：隐藏
+    - `0`：可见
+    - `1`：隐藏
 <br><br>
 
 - WLAN.`status`([ param ])

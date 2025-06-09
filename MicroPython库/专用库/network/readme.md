@@ -254,9 +254,9 @@ nic.connect('你的-SSID', '你的-密钥')
 
 #### 常量  
 
-- WLAN.PM_PERFORMANCE
-- WLAN.PM_POWERSAVE  
-- WLAN.PM_NONE
+- WLAN.`PM_PERFORMANCE`
+- WLAN.`PM_POWERSAVE`
+- WLAN.`PM_NONE`
 
   用于 `WLAN.config(pm=...)` 的参数值。
   - `PM_PERFORMANCE`：启用电源管理，平衡省电与性能
@@ -511,7 +511,7 @@ print(nic.ipconfig("addr4"))
   ```
   nic.ifconfig(('192.168.0.4', '255.255.255.0', '192.168.0.1', '8.8.8.8'))
   ```
-<br><br>
+<br>
 
 - LAN.config(config_parameters)
 
@@ -521,9 +521,9 @@ print(nic.ipconfig("addr4"))
   
   可以设置的参数有：
   - `trace=n`：设置跟踪级别；合适的值为：
-    – 2：跟踪TX
-    – 4：跟踪RX
-    – 8：完整跟踪
+    - 2：跟踪TX
+    - 4：跟踪RX
+    - 8：完整跟踪
   - `low_power=bool`：设置或清除低功耗模式，有效值为 `False` 或 `True`。
 
 **特定LAN类的实现**

@@ -16,6 +16,7 @@
 
 ## [esp8266](esp8266/readme.md)
 - [ESP-01](esp8266/esp-01/readme.md)
+- [nodemcu](esp8266/nodemcu/readme.md)
 
 ## [rp2](rp2/readme.md)
 

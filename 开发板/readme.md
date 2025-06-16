@@ -14,6 +14,9 @@
 - [ESP32C3 SuperMini](esp32/esp32c3-supermini/readme.md)
 - [ESP32-S3-DevKitC-1](esp32/esp32-s3-devkitc-1/readme.md)
 
+## [esp8266](esp8266/readme.md)
+- [ESP-01](esp8266/esp-01/readme.md)
+
 ## [rp2](rp2/readme.md)
 
 - [树莓派 Pico/ Pico W](rp2/rpi-pico/readme.md)

@@ -5,3 +5,4 @@
 - [MagiClick S3 单键键盘](magiclick-s3单键键盘/readme.md)
 - [JMS Pico TKL](由circuitpython和kmk驱动的树莓派pico键盘/readme.md)
 - [磁吸组合宏键盘 Ocreeb MK2](磁吸组合宏键盘ocreebmk2/readme.md)
+- [BLE 媒体控制宏键盘](媒体控制宏键盘/readme.md)

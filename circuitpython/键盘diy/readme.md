@@ -7,3 +7,4 @@
 - [磁吸组合宏键盘 Ocreeb MK2](磁吸组合宏键盘ocreebmk2/readme.md)
 - [BLE 媒体控制宏键盘](媒体控制宏键盘/readme.md)
 - [VOTE 小键盘](vote小键盘/readme.md)
+- [带有轨迹球的定制 Ximi 键盘](ximi键盘/readme.md)

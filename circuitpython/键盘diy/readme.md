@@ -6,3 +6,4 @@
 - [JMS Pico TKL](由circuitpython和kmk驱动的树莓派pico键盘/readme.md)
 - [磁吸组合宏键盘 Ocreeb MK2](磁吸组合宏键盘ocreebmk2/readme.md)
 - [BLE 媒体控制宏键盘](媒体控制宏键盘/readme.md)
+- [VOTE 小键盘](vote小键盘/readme.md)

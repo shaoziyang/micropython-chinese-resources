@@ -4,3 +4,4 @@
 
 - [pyboard](pyboard/readme.md)
 - [Nucleo-F411RE](nucleo-f411re/readme.md)
+- [PYB Nano](pybnano/readme.md)

@@ -8,3 +8,4 @@
 - [BLE 媒体控制宏键盘](媒体控制宏键盘/readme.md)
 - [VOTE 小键盘](vote小键盘/readme.md)
 - [带有轨迹球的定制 Ximi 键盘](ximi键盘/readme.md)
+- [用于剪贴板的 Clipboard](用于剪贴板的clipboard/readme.md)

@@ -4,3 +4,4 @@
 - [micropython程序优化实例](程序优化实例/readme.md)
 - [使用stdio／stdout收发串口数据](使用stdio／stdout收发串口数据/readme.md)
 - [STM32 不自动载入 sdcard](stm32不自动载入sdcard/readme.md)
+- [查看磁盘大小和剩余空间](查看磁盘大小和剩余空间/readme.md)

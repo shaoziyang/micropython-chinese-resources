@@ -6,3 +6,5 @@
 
 - [pyboard](pyboard/readme.md)
   - [stm](pyboard/stm/readme.md)
+- [esp32/esp8266](esp8266_esp32/readme.md)
+  - [esp](esp8266_esp32/esp/readme.md)

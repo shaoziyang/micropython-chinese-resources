@@ -22,3 +22,4 @@
 ## [rp2](rp2/readme.md)
 
 - [树莓派 Pico/ Pico W](rp2/rpi-pico/readme.md)
+- [树莓派 Pico2/ Pico2 W](rp2/rpi-pico2/readme.md)

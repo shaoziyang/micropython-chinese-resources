@@ -5,6 +5,7 @@
 若要编写可移植代码，请使用 `machine` 模块中的函数和类。若要访问特定于平台的硬件，请使用相应的库，例如 Pyboard 的 `pyb` 库。
 
 - [pyboard](pyboard/readme.md)
+  - [pyb（与开发板相关的函数）](pyboard/pyb/readme.md)
   - [stm](pyboard/stm/readme.md)
 - [esp32/esp8266](esp8266_esp32/readme.md)
   - [esp](esp8266_esp32/esp/readme.md)

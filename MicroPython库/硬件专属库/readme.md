@@ -6,6 +6,6 @@
 
 - [pyboard](pyboard/readme.md)
   - [pyb（与开发板相关的函数）](pyboard/pyb/readme.md)
-  - [stm](pyboard/stm/readme.md)
+  - [stm（STM32微控制器专用功能）](pyboard/stm/readme.md)
 - [esp32/esp8266](esp8266_esp32/readme.md)
-  - [esp](esp8266_esp32/esp/readme.md)
+  - [esp（与 ESP8266 和 ESP32 相关的函数）](esp8266_esp32/esp/readme.md)

@@ -2,4 +2,4 @@
 
 以下库是 ESP8266 和 ESP32 特有的。
 
-- [esp](esp/readme.md)
+- [esp（与 ESP8266 和 ESP32 相关的函数）](esp/readme.md)

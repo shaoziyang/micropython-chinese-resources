@@ -229,22 +229,22 @@ RMT 模块的输入时钟为 80MHz（未来可能支持配置输入时钟，但�
   设置唤醒周期。
 <br><br>
 
-- ULP.load_binary(load_addr, program_binary)
+- ULP.`load_binary`(load_addr, program_binary)
 
   将程序二进制数据 `program_binary` 加载到ULP的指定地址 `load_addr`。
 <br><br>
 
-- ULP.run(entry_point)
+- ULP.`run`(entry_point)
 
   从指定入口点`entry_point`启动ULP运行。
 
 
 ### 常量
 
-- esp32.WAKEUP_ALL_LOW
-- esp32.WAKEUP_ANY_HIGH
+- esp32.`WAKEUP_ALL_LOW`
+- esp32.`WAKEUP_ANY_HIGH`
 
-  用于选择引脚的唤醒电平。  
+  用于选择引脚的唤醒电平。
 <br>
 
 ## Non-Volatile Storage（非易失性存储）

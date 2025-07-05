@@ -14,3 +14,4 @@ MicroPython 专用库中最主要的模块是 machine，它包含了大部分的
 - [MicroPython 标准库](标准库/readme.md)
 - [MicroPython 专用库](专用库/readme.md)
 - [MicroPython 硬件专属库](硬件专属库/readme.md)
+- [第三方库](第三方库/readme.md)

@@ -10,3 +10,4 @@
 - [带有轨迹球的定制 Ximi 键盘](ximi键盘/readme.md)
 - [用于剪贴板的 Clipboard](用于剪贴板的clipboard/readme.md)
 - [Raspberry Pi Pico 键盘](jms-pico-tkl/readme.md)
+- [用于 OnShape CAD 设计的 Raspberry Pi Pico 空间鼠标](pico空间鼠标/readme.md)

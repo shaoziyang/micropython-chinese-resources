@@ -15,6 +15,7 @@
 **在线工具**
 - [micro:bit Python Editor](pythoneditor/readme.md)
 - [ViperIDE](viperide/readme.md)
+- [PyScript](pyscript/readme.md)
 - [Arduino Lab for MicroPython 在线版](https://lab-micropython.arduino.cc/)
 
 **其它**

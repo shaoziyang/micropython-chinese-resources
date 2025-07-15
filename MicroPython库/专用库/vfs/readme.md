@@ -6,7 +6,7 @@ vfs 模块包含用于创建文件系统对象并在虚拟文件系统中挂载 
 
 大部分移植版都提供虚拟文件系统（VFS），并支持在该 VFS 中挂载多个 "真实 文件系统。文件系统对象可以挂载到 VFS 的根目录，或根目录下的子目录中。这使得 Python 程序能够对文件系统进行动态灵活的配置。具备此功能的移植版本提供 `mount()` 和 `umount()` 函数，以及多个 VFS 类表示的各种文件系统接口。
 
-- os.`mount`(fsobj, mount_point, *, readonly)
+- vfs.`mount`(fsobj, mount_point, *, readonly)
 
   将文件系统对象 `fsobj` 挂载到由 `mount_point` 字符串指定的 VFS 位置。`fsobj` 可以是具有 `mount()` 方法的 VFS 对象，或块设备。如果是块设备，则会自动检测文件系统类型（若无法识别文件系统，则会引发异常）。`mount_point` 可以是 '/'（将 `fsobj` 挂载到根目录）或 '/<name>'（挂载到根目录下的子目录）。
 

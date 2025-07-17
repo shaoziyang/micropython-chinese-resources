@@ -4,3 +4,4 @@
 
 - [树莓派 Pico/ Pico W](rpi-pico/readme.md)
 - [树莓派 Pico2/ Pico2 W](rpi-pico2/readme.md)
+- [Pimoroni Badger 2040](badger-2040/readme.md)

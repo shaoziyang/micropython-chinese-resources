@@ -6,3 +6,4 @@
 - [Simple MicroPython Web 服务器](simplemicropythonweb/readme.md)
 - [UC8151/IL0373 电子纸显示驱动](uc8151/readme.md)
 - [支持多种存储芯片的 micropython_eeprom](micropython_eeprom/readme.md)
+- [micropyGPS](micropygps/readme.md)

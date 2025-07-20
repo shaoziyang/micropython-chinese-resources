@@ -6,3 +6,4 @@
 - [树莓派 Pico2/ Pico2 W](rpi-pico2/readme.md)
 - [Pimoroni Badger 2040](badger-2040/readme.md)
 - [YD-RP2040](yd-rp2040/readme.md)
+- [RP2040-zero](rp2040-zero/readme.md)

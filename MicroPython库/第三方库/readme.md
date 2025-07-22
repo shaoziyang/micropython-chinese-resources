@@ -9,3 +9,4 @@
 - [支持多种存储芯片的 micropython_eeprom](micropython_eeprom/readme.md)
 - [micropyGPS](micropygps/readme.md)
 - [upy-esp32-lib](upy-esp32-lib/readme.md)
+- [LED 动画框架 trickLED](动画框架trickled/readme.md)

@@ -10,6 +10,7 @@
 - [发行版](https://github.com/micropython/micropython/releases)
 - [github讨论](https://github.com/orgs/micropython/discussions)
 - [里程碑](https://github.com/micropython/micropython/milestones)
+- [Awesome MicroPython](https://awesome-micropython.com/)
 - [~~gurn知识库~~](https://gurubase.io/g/micropython)
 - [<span style="color: #ab50cc;">**circuitpython**</span>](http://circuitpython.org/)
     - [固件](https://circuitpython.org/downloads)

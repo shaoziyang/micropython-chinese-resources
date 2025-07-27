@@ -7,6 +7,7 @@
 - [开发软件](开发软件/readme.md)
 - [开发板](开发板/readme.md)
 - [MicroPython 库](MicroPython库/readme.md)
+- [MicroPython语言及实现](micropython语言及实现/readme.md)
 - [技巧](技巧/readme.md)
 - [创意和应用](创意和应用/readme.md)
 - [图书](图书/readme.md)

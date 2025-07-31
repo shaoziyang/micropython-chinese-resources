@@ -28,3 +28,4 @@
 ## [SamD](samd/readme.md)
 
 - [Adafruit Trinket M0](samd/trinket-m0/readme.md)
+- [Adafruit ItsyBitsy M0 Express](samd/itsybitsy-m0-express/readme.md)

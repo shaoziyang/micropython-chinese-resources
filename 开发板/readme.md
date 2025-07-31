@@ -24,3 +24,7 @@
 
 - [树莓派 Pico/ Pico W](rp2/rpi-pico/readme.md)
 - [树莓派 Pico2/ Pico2 W](rp2/rpi-pico2/readme.md)
+
+## [SamD](samd/readme.md)
+
+- [Adafruit Trinket M0](samd/trinket-m0/readme.md)

@@ -6,7 +6,7 @@
 - [pyboard](stm32/pyboard/readme.md)
 - [Nucleo-F411RE](stm32/nucleo-f411re/readme.md)
 - [PYB Nano](stm32/pybnano/readme.md)
-
+- [pyboardCN](stm32/pyboardcn/readme.md)
 
 ## [esp32](esp32/readme.md)
 - [ESP32-DevKitC](esp32/esp32-devkitc/readme.md)

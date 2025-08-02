@@ -5,6 +5,7 @@
 ## [stm32](stm32/readme.md)
 - [pyboard](stm32/pyboard/readme.md)
 - [Nucleo-F411RE](stm32/nucleo-f411re/readme.md)
+  - [Nucleo-64 开发板连接原生 USB 接口](stm32/nucleo-f411re/连接usb接口/readme.md)
 - [PYB Nano](stm32/pybnano/readme.md)
 - [pyboardCN](stm32/pyboardcn/readme.md)
 

@@ -26,6 +26,9 @@
 
 - [树莓派 Pico/ Pico W](rp2/rpi-pico/readme.md)
 - [树莓派 Pico2/ Pico2 W](rp2/rpi-pico2/readme.md)
+- [Pimoroni Badger 2040](rp2/badger-2040/readme.md)
+- [YD-RP2040](rp2/yd-rp2040/readme.md)
+- [RP2040-zero](rp2/rp2040-zero/readme.md)
 
 ## [SamD](samd/readme.md)
 

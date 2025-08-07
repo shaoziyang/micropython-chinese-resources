@@ -17,6 +17,7 @@
 - [ESP32-S3-DevKitC-1](esp32/esp32-s3-devkitc-1/readme.md)
 - [ESP32-C6-DevKitC-1](esp32/esp32-c6-devkitc-1/readme.md)
 - [Beetle ESP32 C6](esp32/beetle-esp32-c6/readme.md)
+- [ESP32-S3-Zero](esp32/esp32-s3-zero/readme.md)
 
 ## [esp8266](esp8266/readme.md)
 - [ESP-01](esp8266/esp-01/readme.md)

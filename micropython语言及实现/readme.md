@@ -8,3 +8,4 @@ MicroPython 旨在实现 Python 3.4 标准（包含后续版本的部分精选�
 - [MicroPython 远程控制：mpremote](mpremote/readme.md)
 - [MicroPython 的 .mpy 文件](mpy文件/readme.md)
 - [编写中断处理程序](编写中断处理程序/readme.md)
+- [最大化 MicroPython 速度](最大化micropython速度/readme.md)

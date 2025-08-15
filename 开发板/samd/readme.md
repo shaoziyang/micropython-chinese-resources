@@ -5,3 +5,4 @@
 - [Adafruit Trinket M0](trinket-m0/readme.md)
 - [Adafruit ItsyBitsy M0 Express](itsybitsy-m0-express/readme.md)
 - [Adafruit ItsyBitsy M4 Express](itsybitsy-m4/readme.md)
+- [Adafruit Feather M4 Express](feather-m4-express/readme.md)

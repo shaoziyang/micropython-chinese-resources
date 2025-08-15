@@ -37,6 +37,7 @@
 - [Adafruit Trinket M0](samd/trinket-m0/readme.md)
 - [Adafruit ItsyBitsy M0 Express](samd/itsybitsy-m0-express/readme.md)
 - [Adafruit ItsyBitsy M4 Express](samd/itsybitsy-m4/readme.md)
+- [Adafruit Feather M4 Express](samd/feather-m4-express/readme.md)
 
 ## [其它](其它/readme.md)
 

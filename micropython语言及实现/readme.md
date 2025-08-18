@@ -11,3 +11,4 @@ MicroPython 旨在实现 Python 3.4 标准（包含后续版本的部分精选�
 - [最大化 MicroPython 速度](最大化micropython速度/readme.md)
 - [微控制器上的 MicroPython](微控制器上的micropython/readme.md)
 - [MicroPython 清单文件](micropython清单文件/readme.md)
+- [包管理](包管理/readme.md)

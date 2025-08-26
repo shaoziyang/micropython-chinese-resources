@@ -16,8 +16,10 @@
 - [版本](版本/readme.md)
 - [circuitpython](circuitpython/readme.md)
 - [其它](其它)
+---
 
-
+- [MicroPython 许可信息](许可信息/readme.md)
+---
 
 ## 链接
 - [gitee 版](https://gitee.com/shaoziyang/micropython-chinese-resources)

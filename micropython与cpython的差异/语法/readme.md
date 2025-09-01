@@ -61,7 +61,7 @@ except SyntaxError:
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|\<string\>:1: SyntaxWarning: invalid decimal literal<br>0<br>\<string\>:1: SyntaxWarning: invalid decimal literal<br>1<br>\<string\>:1: SyntaxWarning: invalid decimal literal<br>\<string\>:1: SyntaxWarning: invalid decimal literal<br>1<br>b'\x01'|Should have worked<br>Should have worked<br>Should have worked<br>Should have worked|
+|`<string>`:1: SyntaxWarning: invalid decimal literal<br>0<br>`<string>`:1: SyntaxWarning: invalid decimal literal<br>1<br>`<string>`:1: SyntaxWarning: invalid decimal literal<br>`<string>`:1: SyntaxWarning: invalid decimal literal<br>1<br>b'\x01'|Should have worked<br>Should have worked<br>Should have worked<br>Should have worked|
 
 
 ## 运算符
@@ -80,7 +80,7 @@ print([[(j := i) for i in range(2)] for j in range(2)])
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|File "<stdin>", line 8<br>`SyntaxError`: assignment expression cannot rebind comprehension iteration variable 'j'|[[0, 1], [0, 1]]|
+|File "`<stdin>`", line 8<br>`SyntaxError`: assignment expression cannot rebind comprehension iteration variable 'j'|[[0, 1], [0, 1]]|
 
 
 ## Unicode
@@ -123,4 +123,4 @@ example(
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-| 67 | Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 21, in \<module\><br>`SyntaxError`: too many args |
+| 67 | Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 21, in `<module>`<br>`SyntaxError`: too many args |

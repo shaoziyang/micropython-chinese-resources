@@ -75,7 +75,7 @@ class_item.do_print()
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|Example String to print.<br>Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 26, in \<module\><br>&nbsp;&nbsp;File "\<stdin\>", line 18, in do_print<br>`NameError`: name '_Foo__print_string' is not defined. Did you mean: '__print_string'? |Example String to print.<br>Example String to print.|
+|Example String to print.<br>Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 26, in `<module>`<br>&nbsp;&nbsp;File "`<stdin>`", line 18, in do_print<br>`NameError`: name '_Foo__print_string' is not defined. Did you mean: '__print_string'? |Example String to print.<br>Example String to print.|
 
 
 ### 当继承原生类型时，在 `super().__init__()` 之前如果在 `__init__(self, ...)` 中调用方法会引发 `AttributeError`（如果未启用 `MICROPY_BUILTIN_METHOD_CHECK_SELF_ARG`，则会导致段错误）。
@@ -210,7 +210,7 @@ print(f.__module__)
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|`__main__`|Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 13, in \<module\><br>`AttributeError:`: 'function' object has no attribute `'__module__'`|
+|`__main__`|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 13, in `<module>`<br>`AttributeError:`: 'function' object has no attribute `'__module__'`|
 
 
 ### 不支持为函数定义用户自定义属性
@@ -230,7 +230,7 @@ print(f.x)
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|0|Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 13, in \<module\><br>`AttributeError`: 'function' object has no attribute 'x'|
+|0|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 13, in `<module>`<br>`AttributeError`: 'function' object has no attribute 'x'|
 
 
 ## 生成器
@@ -283,7 +283,7 @@ test()
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|{'val': 2}|{'test': <function test at 0x73a861806260>, `'__name__'`: `'__main__'`, `'__file__'`: '\<stdin\>'}|
+|{'val': 2}|{'test': <function test at 0x73a861806260>, `'__name__'`: `'__main__'`, `'__file__'`: '`<stdin>`'}|
 
 
 ### 在 `eval()` 函数中运行的代码无法访问局部变量
@@ -327,7 +327,7 @@ print(f"{x}" "a{}b")  # 运行失败
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|aa1<br>1ab<br>a{}a1<br>1a{}b|aa1<br>1ab<br>Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 12, in \<module\><br>`IndexError`: tuple index out of range|
+|aa1<br>1ab<br>a{}a1<br>1a{}b|aa1<br>1ab<br>Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 12, in `<module>`<br>`IndexError`: tuple index out of range|
 
 
 ### f 字符串不支持需要通过解析来处理不平衡嵌套花括号和方括号的表达式
@@ -344,7 +344,7 @@ print(f"{'hello ] world'}")
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|hello { world<br>hello ] world|Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 9<br>`SyntaxError`: invalid syntax|
+|hello { world<br>hello ] world|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 9<br>`SyntaxError`: invalid syntax|
 
 
 ### f 字符串不支持 !a 转换
@@ -360,7 +360,7 @@ f"{'unicode text'!a}"
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|`"'unicode text'"`|Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 8<br>`SyntaxError`: invalid syntax|
+|`"'unicode text'"`|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 8<br>`SyntaxError`: invalid syntax|
 
 
 ## 导入（import）
@@ -404,5 +404,5 @@ print("Two modules of a split namespace package imported")
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|Two modules of a split namespace package imported|Traceback (most recent call last):<br>&nbsp;&nbsp;File "\<stdin\>", line 14, in \<module\><br>`ImportError`: no module named 'subpkg.bar'|
+|Two modules of a split namespace package imported|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 14, in `<module>`<br>`ImportError`: no module named 'subpkg.bar'|
 

@@ -258,7 +258,7 @@ print(a + a)
 
 | CPython 输出：| MicroPython 输出：|
 | - | - |
-|84|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 14, in `<module>`<br>&nbsp;&nbsp;File "`<stdin>`", line 10, in \<lambda\><br>`TypeError`: unsupported types for `__radd__`: 'int', 'int'|
+|84|Traceback (most recent call last):<br>&nbsp;&nbsp;File "`<stdin>`", line 14, in `<module>`<br>&nbsp;&nbsp;File "`<stdin>`", line 10, in `<lambda>`<br>`TypeError`: unsupported types for `__radd__`: 'int', 'int'|
 
 
 ### `to_bytes` 方法未实现 `signed` 参数。

@@ -66,3 +66,11 @@ MicroPython 编程方面的相关书籍。
 * [MicroPython Inline Assembler By Example](https://www.amazon.com/MicroPython-Inline-Assembler-Example-Magda-ebook/dp/B07ZQLSJHF)
 
 ![](micropython_inline_assembler_by_example.webp)
+
+<hr>
+
+## 其它
+
+* [Bridging the TinyML Language Gap with MicroPython and Emlearn](https://github.com/jonnor/embeddedml/tree/master/presentations/EmbeddedWorld2025)
+
+![](bridging-the-tinyml-language-gap-with-micropython-and-emlearn.webp)

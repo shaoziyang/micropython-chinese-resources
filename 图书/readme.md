@@ -74,3 +74,10 @@ MicroPython 编程方面的相关书籍。
 * [Bridging the TinyML Language Gap with MicroPython and Emlearn](https://github.com/jonnor/embeddedml/tree/master/presentations/EmbeddedWorld2025)
 
 ![](bridging-the-tinyml-language-gap-with-micropython-and-emlearn.webp)
+
+<hr>
+
+
+* [Sensor data processing on microcontrollers with MicroPython](https://github.com/jonnor/embeddedml/tree/master/presentations/euroscipy2025)
+
+![](sensor-data-processing-on-microcontrollers-with-micropython.webp)

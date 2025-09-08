@@ -4,3 +4,4 @@
 
 围绕 MicroPython 的开发工作，通常涉及修改核心运行时、移植新库或维护已有库。本指南将深入阐述 MicroPython 的各类实现细节，内容涵盖入门指南、编译器内部机制、MicroPython 向新平台的移植流程，以及 MicroPython 核心库的实现方法。
 
+- [入门指南](入门指南/readme.md)

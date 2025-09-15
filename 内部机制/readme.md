@@ -6,5 +6,6 @@
 
 - [入门指南](入门指南/readme.md)
 - [编写测试](编写测试/readme.md)
+- [编译器](编译器/readme.md)
 - [内存管理](内存管理/readme.md)
 - [实现模块](实现模块/readme.md)

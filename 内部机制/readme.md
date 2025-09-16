@@ -10,3 +10,4 @@
 - [内存管理](内存管理/readme.md)
 - [实现模块](实现模块/readme.md)
 - [优化](优化/readme.md)
+- [字符串驻留](字符串驻留/readme.md)

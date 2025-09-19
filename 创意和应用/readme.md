@@ -11,3 +11,4 @@
 - [TV-B-Gone 的 MicroPython 克隆](tv-b-gone/readme.md)
 - [开源三色无线电子纸显示器Merlot](merlot/readme.md)
 - [可路由网状网络 Micropycelium](micropycelium/readme.md)
+- [Mouth Mouse](mouth-mouse/readme.md)

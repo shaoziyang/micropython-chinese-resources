@@ -12,3 +12,4 @@
 - [开源三色无线电子纸显示器Merlot](merlot/readme.md)
 - [可路由网状网络 Micropycelium](micropycelium/readme.md)
 - [Mouth Mouse](mouth-mouse/readme.md)
+- [WiFIRCard](wifircard/readme.md)

@@ -6,3 +6,4 @@
 - [使用 CircuitPython 对 Oxocard Connect 进行编程](https://makezine.com/projects/programming-the-oxocard-connect-with-circuitpython/)
 - [Raspberry Pi 官方杂志 – 第 157 期：使用 CircuitPython 入门电子](https://blog.adafruit.com/2025/09/02/the-raspberry-pi-official-magazine-issue-157-starter-electronics-rpimagazine/)
 - [PicoCalc 的 MicroPython 开发说明](https://zenn.dev/snaga/articles/2025-08-31-picocalc-micropython)
+- [SparkFun MicroPython 初学者教程](https://www.adafruitdaily.com/2025/07/28/python-on-microcontrollers-newsletter-circuitpython-day-approaching-overclocking-the-pico-2-and-more-circuitpython-python-micropython-thepsf-raspberry_pi/)

@@ -12,3 +12,4 @@
 - [Raspberry Pi Pico 键盘](jms-pico-tkl/readme.md)
 - [用于 OnShape CAD 设计的 Raspberry Pi Pico 空间鼠标](pico空间鼠标/readme.md)
 - [触摸矩阵板 PICOmputer TOUCH ARMACHAT](touch-armachat/readme.md)
+- [仅使用circuitpython编程的键盘](仅使用circuitpython编程的键盘/readme.md)

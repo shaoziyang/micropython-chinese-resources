@@ -13,3 +13,4 @@
 - [字符串驻留](字符串驻留/readme.md)
 - [映射与字典](映射与字典/readme.md)
 - [公共 C API](公共-c-api/readme.md)
+- [用 C 语言扩展 MicroPython](用-c-语言扩展-micropython/readme.md)

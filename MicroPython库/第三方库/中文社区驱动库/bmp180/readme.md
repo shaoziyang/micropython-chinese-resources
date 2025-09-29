@@ -9,7 +9,7 @@ bmp180是一个高精度、小体积、低功耗的气压传感器。虽然它�
 * 温度范围：0~65℃
 * 气压范围：300~1100 hPa
 * 气压精度：1 hPa
-* 输出方式: I2C
+* 输出方式：I2C
 
 使用方法 (需要先将 [bmp180 驱动](https://gitee.com/microbit/mpy-lib/tree/master/sensor/bmp180) 复制到开发板中)：
 

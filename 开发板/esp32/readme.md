@@ -5,6 +5,7 @@
 - [ESP32-DevKitC](esp32-devkitc/readme.md)
 - [ESP32 S2 mini](esp32-s2-mini/readme.md)
 - [CORE-ESP32C3](core-esp32c3/readme.md)
+- [ESP8684-DevKitC-2-N4](esp8684-devkitc-2-n4/readme.md)
 - [ESP32C3 SuperMini](esp32c3-supermini/readme.md)
 - [ESP32-S3-DevKitC-1](esp32-s3-devkitc-1/readme.md)
 - [ESP32-C6-DevKitC-1](esp32-c6-devkitc-1/readme.md)

@@ -12,3 +12,4 @@
 - [micropyGPS](micropygps/readme.md)
 - [upy-esp32-lib](upy-esp32-lib/readme.md)
 - [LED 动画框架 trickLED](动画框架trickled/readme.md)
+- [LGL 10位串口 VFD 模块驱动](lgl-10位串口vfd/readme.md)

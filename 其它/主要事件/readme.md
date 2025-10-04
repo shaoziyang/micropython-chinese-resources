@@ -1,6 +1,7 @@
 # 主要事件
 
 - ……
+- 2025年10月 1日，[CircuitPython 10.0.0 发布](https://blog.adafruit.com/2025/10/01/circuitpython-10-0-0-released/)
 - 2025年 9月10日，[添加 QEMU RV64](https://github.com/micropython/micropython/commit/44986b1f0401f086254f7dabc65f1816db35829a)
 - 2025年 9月15日，[删除 python 2 支持](https://github.com/micropython/micropython/commit/f0c6f16b9eeedc11f3b042704109fddb9aa3532f)
 - 2025年 8月 9日，[发布 1.26 版：I2C 从设备、改进的浮点数运算与原生代码生成器、STM32N6 及 ESP32C2 支持](https://github.com/micropython/micropython/releases/tag/v1.26.0)

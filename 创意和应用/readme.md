@@ -13,3 +13,4 @@
 - [可路由网状网络 Micropycelium](micropycelium/readme.md)
 - [Mouth Mouse](mouth-mouse/readme.md)
 - [WiFIRCard](wifircard/readme.md)
+- [Galdeano 手持式计算机](galdeano-手持式计算机/readme.md)

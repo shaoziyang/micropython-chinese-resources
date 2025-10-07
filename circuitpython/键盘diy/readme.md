@@ -14,3 +14,4 @@
 - [触摸矩阵板 PICOmputer TOUCH ARMACHAT](touch-armachat/readme.md)
 - [仅使用circuitpython编程的键盘](仅使用circuitpython编程的键盘/readme.md)
 - [8键氛围编码键盘](8键氛围编码键盘/readme.md)
+- [具有24个触摸键、9个可定制LED的Blackboard](blackboard/readme.md)

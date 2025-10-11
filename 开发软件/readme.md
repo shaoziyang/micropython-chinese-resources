@@ -20,3 +20,4 @@
 
 **其它**
 - [模拟运行](模拟运行/readme.md)
+- [Arduino Micropython Installer](其它/arduino-micropython-installer/readme.md)

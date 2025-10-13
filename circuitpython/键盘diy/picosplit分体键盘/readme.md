@@ -16,7 +16,7 @@ PicoSplit 是一款 3D 打印的分体式键盘,采用 CircuitPython 编写的�
 - 可读的配置文件格式。 
 - 一种省时的开关接线系统，无需使用二极管。 
 - 无需在您的计算机上安装任何其他软件。 
-- 你只需要一个简单的文本编辑器就可以修改键盘布局。 
+- 只需要一个简单的文本编辑器就可以修改键盘布局。 
 - 已经包含了一种能大幅减少手指移动距离的布局。该布局的灵感来源于[Miryoku布局](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)。 
 - Raspberry Pi Pico可以用其他产品替代。
 

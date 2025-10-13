@@ -16,4 +16,5 @@
 - [8键氛围编码键盘](8键氛围编码键盘/readme.md)
 - [具有24个触摸键、9个可定制LED的Blackboard](blackboard/readme.md)
 - [树莓派 Pico 4x4 Macropad](pico-4x4-macropad/readme.md)
-- [picosplit 分体键盘](./picosplit分体键盘/readme.md)
+- [picosplit 分体键盘](picosplit分体键盘/readme.md)
+- [木制可编程宏键盘](木制可编程宏键盘/readme.md)

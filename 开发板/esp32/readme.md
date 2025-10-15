@@ -3,6 +3,7 @@
 使用 esp32 系列 mcu 的各种 micropython 开发板，也是目前性价比较高的开发板。
 
 - [ESP32-DevKitC](esp32-devkitc/readme.md)
+- [NODEMCU ESP32-C2](nodemcu-esp32-c2/readme.md)
 - [ESP8684-DevKitC-2-N4](esp8684-devkitc-2-n4/readme.md)
 - [CORE-ESP32C3](core-esp32c3/readme.md)
 - [ESP32C3 SuperMini](esp32c3-supermini/readme.md)

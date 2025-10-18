@@ -11,4 +11,5 @@
 - [通过 PA0 唤醒 pyboard](通过pa0唤醒pyboard/readme.md)
 - [格式化文件系统](格式化文件系统/readme.md)
 - [ramdisk的使用](ramdisk的使用/readme.md)
+- [在安卓上通过 Termux 上使用 ESP32](在安卓上通过termux上使用esp32/readme.md)
 - [软件使用技巧](软件使用技巧/readme.md)

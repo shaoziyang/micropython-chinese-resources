@@ -23,3 +23,8 @@ ADC_T2 = ADC(Pin(33), atten=ADC.ATTN_11DB)
 T1 = NTC_VCC(ADC_T1.read_uv()/1000, 3300)
 T2 = NTC_GND(ADC_T2.read_uv()/1000, 3300, B=3950)
 ```
+
+## proteus 模拟效果
+
+![](../../../../开发软件/模拟运行/proteus/ntc.gif)
+

@@ -18,3 +18,4 @@ micropython 中文社区开发、整理的各种传感器驱动、例程等。
 - [bme280 温湿度气压传感器](bme280/readme.md)
 - [MEMS 压力传感器 LPS22](lps22/readme.md)
 - [TM1650 四位数码管驱动](tm1650/readme.md)
+- [MCP401x 数字电位器](mcp401x/readme.md)

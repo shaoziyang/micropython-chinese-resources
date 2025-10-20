@@ -23,7 +23,9 @@ bmp280 是 bmp180 的升级型号，它在提升性能、增加 spi 接口、缩
 - 工作温度范围: 同上（‑40 °C ~ +85 °C）
 - 支持的采样率: 可配置至 157 Hz（最高）
 
-**使用方法** (需要先将 [bmp280 驱动](https://gitee.com/microbit/mpy-lib/tree/master/sensor/bmp280) 复制到开发板中)：
+## 使用方法
+
+需要先将 [bmp280 驱动](https://gitee.com/microbit/mpy-lib/tree/master/sensor/bmp280) 复制到开发板中
 
 ```py
 from machine import I2C
@@ -38,3 +40,7 @@ while True:
     b.get()
 
 ```
+
+## proteus 模拟效果
+
+![]({{DOC_PATH}}../../../../开发软件/模拟运行/proteus/bmp280.gif)

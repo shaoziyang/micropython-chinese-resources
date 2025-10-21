@@ -34,6 +34,7 @@
 - [YD-RP2040](rp2/yd-rp2040/readme.md)
 - [RP2040-zero](rp2/rp2040-zero/readme.md)
 - [Seeed Studio XIAO RP2040](rp2/seeed_studio_xiao_rp2040/readme.md)
+- [Shrike Lite](rp2/shrike-lite/readme.md)
 
 ## [SamD](samd/readme.md)
 

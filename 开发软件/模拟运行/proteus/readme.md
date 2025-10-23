@@ -58,6 +58,13 @@ I2C 接口 OLED 128x64 模块
 ![](oled_12864_i2c.gif)
 
 
+### I2C OLED ASC
+
+I2C 接口 OLED 128x32 多字体显示
+
+![](oled_i2c_asc.gif)
+
+
 ### neopixel
 
 NeoPixel/WS2812 灯带.

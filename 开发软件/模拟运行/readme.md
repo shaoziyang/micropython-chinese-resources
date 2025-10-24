@@ -33,7 +33,7 @@ wokwi 带有丰富的 arduino、C、micropython 例程，用户之间也可以�
 
 * https://github.com/shaoziyang/proteus-program-for-micropython
 * https://gitee.com/shaoziyang/proteus-program-for-micropython
-* [proteus 仿真效果演示](proteus/readme.md)
+* [proteus 仿真效果演示](proteus仿真/readme.md)
 
 ## 其它
 

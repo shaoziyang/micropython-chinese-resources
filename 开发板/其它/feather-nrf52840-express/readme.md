@@ -32,6 +32,7 @@ Adafruit 羽毛系列开发板中的 Feather nRF52840 Express，使用了 Nordic
 * [circuitpython 固件下载](https://circuitpython.org/board/feather_nrf52840_express/)
 * [Adafruit 官方商城](https://www.adafruit.com/product/4062)
 * [Adafruit nRF52840 Feather 开发板介绍](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather)
+* [PCB 设计文档](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB)
 
 ## 其它
 

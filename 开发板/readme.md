@@ -8,6 +8,7 @@
   - [Nucleo-64 开发板连接原生 USB 接口](stm32/nucleo-f411re/连接usb接口/readme.md)
 - [PYB Nano](stm32/pybnano/readme.md)
 - [pyboardCN](stm32/pyboardcn/readme.md)
+- [Feather STM32F405 Express](stm32/feather-stm32f405-express/readme.md)
 
 ## [esp32](esp32/readme.md)
 - [ESP32-DevKitC](esp32/esp32-devkitc/readme.md)

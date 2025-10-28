@@ -11,3 +11,4 @@ Adafruit ItsyBitsy M0 Express 开发板，同样使用了 ATSAMD21 处理器，�
 - [开发板说明](https://www.adafruit.com/product/3727)
 - [micropython 固件](https://micropython.org/download/ADAFRUIT_ITSYBITSY_M0_EXPRESS/)
 - [circuitPython 固件](https://circuitpython.org/board/itsybitsy_m0_express/)
+- [PCB 设计文件](https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB)

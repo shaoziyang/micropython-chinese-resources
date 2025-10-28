@@ -11,3 +11,5 @@ Adafruit ItsyBitsy M4 Express 体积小，功能强大，使用运行频率为 1
 - [产品说明](https://www.adafruit.com/product/3800)
 - [micropython 固件](https://micropython.org/download/ADAFRUIT_ITSYBITSY_M4_EXPRESS/)
 - [circuitpython 固件](https://circuitpython.org/board/itsybitsy_m4_express/)
+- [circuitpython 固件](https://circuitpython.org/board/itsybitsy_m4_express/)
+- [PCB 设计文件](https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB)

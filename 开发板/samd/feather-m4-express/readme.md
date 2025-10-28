@@ -12,3 +12,4 @@ Adadruit 羽毛系列开发板，使用 ATSAMD51 微控制器。像雨燕一样�
 - [开发板说明](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51)
 - [micropython 固件](https://micropython.org/download/ADAFRUIT_FEATHER_M4_EXPRESS/)
 - [circuitpython 固件](https://circuitpython.org/board/feather_m4_express/)
+- [PCB 设计文件](https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB)

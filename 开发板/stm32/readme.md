@@ -8,3 +8,4 @@
 - [PYB Nano](pybnano/readme.md)
 - [pyboardCN](pyboardcn/readme.md)
 - [Feather STM32F405 Express](feather-stm32f405-express/readme.md)
+- [STM32F411CE Black Pill](stm32f411ce-black-pill/readme.md)

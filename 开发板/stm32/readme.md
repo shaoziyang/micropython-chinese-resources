@@ -10,3 +10,4 @@
 - [Feather STM32F405 Express](feather-stm32f405-express/readme.md)
 - [STM32F411CE Black Pill](stm32f411ce-black-pill/readme.md)
 - [STM32F411E DISCOVERY](stm32f411ediscovery/readme.md)
+- [STM32F746ZG Nucleo-144](stm32f746zg/readme.md)

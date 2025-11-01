@@ -12,6 +12,7 @@
 - [STM32F411CE Black Pill](stm32/stm32f411ce-black-pill/readme.md)
 - [STM32F411E DISCOVERY](stm32/stm32f411ediscovery/readme.md)
 - [STM32F746ZG Nucleo-144](stm32/stm32f746zg/readme.md)
+- [STM32H743ZI Nucleo-144](stm32/stm32h743zi/readme.md)
 
 ## [esp32](esp32/readme.md)
 - [ESP32-DevKitC](esp32/esp32-devkitc/readme.md)

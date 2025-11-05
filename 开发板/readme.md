@@ -56,3 +56,4 @@
 - [micro:bit](其它/microbit/readme.md)
 - [Feather nRF52840 Express](其它/feather-nrf52840-express/readme.md)
 - [micropython 发明者套件](其它/发明者套件/readme.md)
+- [2025 年 HACKADAY 超级会议传播者徽章](其它/2025传播者徽章/readme.md)

@@ -11,6 +11,7 @@
 
 **图形化编程**
 - [MPY Blockly](mpyblockly/readme.md)
+- [microBlock IDE 离线版 (github)](https://github.com/microBlock-IDE/microBlock-IDE-offline)
 
 **在线工具**
 - [micro:bit Python Editor](pythoneditor/readme.md)

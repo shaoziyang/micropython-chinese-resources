@@ -15,3 +15,4 @@
 - [WiFIRCard](wifircard/readme.md)
 - [Galdeano 手持式计算机](galdeano-手持式计算机/readme.md)
 - [ESP-NOW 无线 LED 杂耍球](espnow无线led杂耍球/readme.md)
+- [CircuitPython 迷宫游戏](circuitpython迷宫游戏/readme.md)

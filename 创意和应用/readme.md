@@ -17,3 +17,4 @@
 - [ESP-NOW 无线 LED 杂耍球](espnow无线led杂耍球/readme.md)
 - [CircuitPython 迷宫游戏](circuitpython迷宫游戏/readme.md)
 - [基于树莓派 Pico 与 MicroPython 的 SCPI 设备仿真项目](scpi设备仿真项目/readme.md)
+- [带 RFID 的 MP3 播放器](带rfid的mp3播放器/readme.md)

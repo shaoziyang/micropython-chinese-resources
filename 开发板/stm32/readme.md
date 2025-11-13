@@ -12,3 +12,4 @@
 - [STM32F411E DISCOVERY](stm32f411ediscovery/readme.md)
 - [STM32F746ZG Nucleo-144](stm32f746zg/readme.md)
 - [STM32H743ZI Nucleo-144](stm32h743zi/readme.md)
+- [STM32F746G DISCOVERY](stm32f746gdiscovery/readme.md)

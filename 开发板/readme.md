@@ -14,6 +14,7 @@
 - [STM32F746ZG Nucleo-144](stm32/stm32f746zg/readme.md)
 - [STM32H743ZI Nucleo-144](stm32/stm32h743zi/readme.md)
 - [STM32F746G DISCOVERY](stm32/stm32f746gdiscovery/readme.md)
+- [VCC-GND F407ZG](stm32/vcc_gnd_f407zg/readme.md)
 
 ## [esp32](esp32/readme.md)
 - [ESP32-DevKitC](esp32/esp32-devkitc/readme.md)

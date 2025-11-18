@@ -32,5 +32,5 @@ while 1:
 
 proteus仿真效果
 
-![](../../../../开发软件/模拟运行/proteus/i2c_lcd1602.gif)
+![](../../../../开发软件/模拟运行/proteus仿真/i2c_lcd1602.gif)
 

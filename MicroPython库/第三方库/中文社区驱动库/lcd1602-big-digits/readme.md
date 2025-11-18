@@ -30,4 +30,4 @@ while 1:
 
 proteus仿真效果
 
-![](../../../../开发软件/模拟运行/proteus/lcd1602_bigdigit.gif)
+![](../../../../开发软件/模拟运行/proteus仿真/lcd1602_bigdigit.gif)

@@ -62,5 +62,5 @@ while True:
 
 ## proteus 模拟效果
 
-![](../../../../开发软件/模拟运行/proteus/bme280.gif)
+![](../../../../开发软件/模拟运行/proteus仿真/bme280.gif)
 

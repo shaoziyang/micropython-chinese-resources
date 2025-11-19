@@ -16,7 +16,7 @@
 - [固件](固件/readme.md)
 - [版本](版本/readme.md)
 - [circuitpython](circuitpython/readme.md)
-- [其它](其它)
+- [其它](其它/readme.md)
 ---
 
 - [MicroPython 许可信息](许可信息/readme.md)

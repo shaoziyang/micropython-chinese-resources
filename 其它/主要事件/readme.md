@@ -1,6 +1,7 @@
 # 主要事件
 
 - ……
+- 2025年11月17日，[添加 esp32c5 支持](https://github.com/micropython/micropython/commit/713f40d20446240fcc340ffc5180802b0a22452a)
 - 2025年10月 1日，[CircuitPython 10.0.0 发布](https://blog.adafruit.com/2025/10/01/circuitpython-10-0-0-released/)
 - 2025年 9月10日，[添加 QEMU RV64](https://github.com/micropython/micropython/commit/44986b1f0401f086254f7dabc65f1816db35829a)
 - 2025年 9月15日，[删除 python 2 支持](https://github.com/micropython/micropython/commit/f0c6f16b9eeedc11f3b042704109fddb9aa3532f)

@@ -9,6 +9,10 @@
 <br>
 * * *
 - ……
+- 2025-11-18, [IKEA Goes Matter, Blockly Adopted by RasPi, a New Arduino and More!](https://blog.adafruit.com/2025/11/18/icymi-python-on-microcontrollers-newsletter-ikea-goes-matter-blockly-adopted-by-raspi-a-new-arduino-and-more-circuitpython-python-micropython-raspberry_pi/)
+- 2025-11-10, [Original Pi Heading Towards EOL, CircuitPython MIPI DSI, LLM Robots and More!](https://www.adafruitdaily.com/2025/11/10/python-on-microcontrollers-newsletter-original-pi-heading-towards-eol-circuitpython-mipi-dsi-llm-robots-and-more-circuitpython-python-micropython-thepsf-raspberry_pi/)
+- 2025-11-04, [MicroPython Badges, Arduino Uno Q Hands On, PSF Says No and More!](https://blog.adafruit.com/2025/11/04/icymi-python-on-microcontrollers-newsletter-micropython-badges-arduino-uno-q-hands-on-psf-says-no-and-more-circuitpython-python-micropython-raspberry_pi/)
+- 2025-10-28, [Qualcomm’s Dev Grab, Q Open Source? CircuitPython 10.1.0-beta0 and Much More!](https://blog.adafruit.com/2025/10/28/icymi-python-on-microcontrollers-newsletter-qualcomms-dev-grab-q-open-source-circuitpython-10-1-0-beta0-and-much-more-circuitpython-python-micropython-raspberry_pi/)
 - 2025-10-21, [Evaluating the Arduino Acquisition, CircuitPython 10.0.3 and Much More!](https://blog.adafruit.com/2025/10/21/icymi-python-on-microcontrollers-newsletter-evaluating-the-arduino-acquisition-circuitpython-10-0-3-and-much-more-circuitpython-python-micropython-raspberry_pi/)
 - 2025-10-14, [Qualcomm Nabs Arduino, MicroPython OSes, Python 3.14 Out and More!](https://blog.adafruit.com/2025/10/14/icymi-python-on-microcontrollers-newsletter-qualcomm-nabs-arduino-micropython-oses-python-3-14-out-and-more-circuitpython-python-micropython-raspberry_pi/)
 - 2025-10-06, [All New CircuitPython 10 and RasPi OS Trixie, RAM & Flash Shortages and More!](https://www.adafruitdaily.com/2025/10/06/python-on-microcontrollers-newsletter-all-new-circuitpython-10-and-raspi-os-trixie-ram-flash-shortages-and-more-circuitpython-python-micropython-thepsf-raspberry_pi/)

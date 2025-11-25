@@ -19,3 +19,4 @@
 - [基于树莓派 Pico 与 MicroPython 的 SCPI 设备仿真项目](scpi设备仿真项目/readme.md)
 - [带 RFID 的 MP3 播放器](带rfid的mp3播放器/readme.md)
 - [smolOS](smolos/readme.md)
+- [ESP32的带密码保护 OTA Web IDE](esp32的带密码保护ota-web-ide/readme.md)

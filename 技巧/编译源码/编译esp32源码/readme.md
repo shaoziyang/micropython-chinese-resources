@@ -4,23 +4,23 @@ esp32使用了Xtensa内核，它与arm不同，不能使用Arm GNU Toolchain，�
 
 编译esp32主要的困难在于编译工具链的安装和设置，一个原因是ESP-IDF更新较快，需要经常升级；另外安装编译工具时需要从github上拉取相当多的文件，对网络速度和稳定性有一定要求。安装过程中如果因为网络问题失败，通常可以从失败的位置继续安装，或者改用乐鑫的服务器上下载。
 
-下面以 ESP-IDF 5.0.2 为例进行说明，其它版本安装方式类似，具体可以参考micropython的文档说明。
+下面以 ESP-IDF 5.5.1 为例进行说明，其它版本安装方式类似，具体可以参考micropython的文档说明。
 
 首先用git下载ESP-IDF文件（文件较大，可能需要较长时间）。
 ```
-git clone -b v5.0.2 --recursive https://github.com/espressif/esp-idf.git
+git clone -b v5.5.1 --recursive https://github.com/espressif/esp-idf.git
 ```
 
-如果已经安装过ESP-IDF，可以通过git更新到 v5.0.2版本。
+如果已经安装过ESP-IDF，可以通过git更新到 v5.5.1版本。
 ```
 cd esp-idf
-git checkout v5.0.2
+git checkout v5.5.1
 git submodule update --init --recursive
 ```
 
-构建前还需要安装python3.8-venv，否则构建时会提示没有安装并退出。
+构建前还需要安装python3-venv，否则构建时会提示没有安装并退出。
 ```
-apt install python3.8-venv
+apt install python3-venv
 ```
 
 成功拉取所有文件后，就可以构建ESP-IDF编译器。在 ESP-IDF目录下运行 install.sh，就可以自动开始构建。install.sh 命令只需要运行一次，只有在ESP-IDF更新后，才需要再次运行，更新工具链。构建过程中会从 github 下载数百兆相关文件，因此这个过程会受到网络很大影响。构建过程会占用数G的磁盘空间，因此需要预留出足够大的磁盘空间，在虚拟机中进行编译时要特别注意这个问题。

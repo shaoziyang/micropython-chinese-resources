@@ -20,3 +20,4 @@
 - [带 RFID 的 MP3 播放器](带rfid的mp3播放器/readme.md)
 - [smolOS](smolos/readme.md)
 - [ESP32的带密码保护 OTA Web IDE](esp32的带密码保护ota-web-ide/readme.md)
+- [比一角硬币还小的 ESP32 开发板](比一角硬币还小的esp32开发板/readme.md)

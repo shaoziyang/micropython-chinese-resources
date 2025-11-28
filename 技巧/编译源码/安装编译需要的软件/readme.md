@@ -21,12 +21,12 @@ curl -L -o arm-gnu-toolchain.tar.xz  https://developer.arm.com/-/media/Files/dow
 下载链接非常长，输入很容易输错，最好用浏览器复制链接后粘贴到命令行中（这里是以13.2版本为例，实际的版本应该会更高）。下载的Arm GNU Toolchain是一个tar.xz格式的压缩文件，我们需要将它解压缩到一个目录，然后再添加arm-gnu-toolchain的bin目录到系统路径，这样就可以在任意目录下使用它。
 ```
 sudo mkdir /opt/gcc-arm-none-eabi
-sudo tar vxf ./arm-gnu-toolchain.tar.xz --strip-components=1 -C /opt/gcc-arm-none-eabi
+sudo tar vxf ./arm-gnu-toolchain-13.2.rel1-x86_64-arm-none-eabi.tar.xz --strip-components=1 -C /opt/gcc-arm-none-eabi
 echo 'export PATH=$PATH:/opt/gcc-arm-none-eabi/bin' | sudo tee -a /etc/profile.d/gcc-arm-none-eabi.sh
 source /etc/profile
 ```
 
-完成上述步骤后，输入命令 arm-none-eabi-gcc —version，如果显示出版本号就说明安装成功。
+完成上述步骤后，输入命令 `arm-none-eabi-gcc -v`，如果显示出版本号就说明安装成功。
 ```
 xxxxx@XXXXX:~$ arm-none-eabi-gcc --version
 arm-none-eabi-gcc (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 12.3.1 20230626

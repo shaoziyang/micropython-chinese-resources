@@ -29,6 +29,7 @@
 - [ESP32-S3-Zero](esp32/esp32-s3-zero/readme.md)
 - [ESP32-S3-DevKitC-1](esp32/esp32-s3-devkitc-1/readme.md)
 - [ESP32-P4-Function-EV-Board](esp32/esp32-p4-function-ev-board/readme.md)
+- [微雪 ESP32-S3-Touch-LCD-2](esp32/esp32-s3-touch-lcd-2/readme.md)
 
 ## [esp8266](esp8266/readme.md)
 - [ESP-01](esp8266/esp-01/readme.md)

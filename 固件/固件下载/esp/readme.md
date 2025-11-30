@@ -45,11 +45,11 @@ Flash Download Tool 支持 esp 全系列的芯片，运行后需要先选择芯�
 
 - **擦除**
 
-  `esptool -p COM8 -c auto erase\_flash`
+  `esptool -p COM8 -c auto erase_flash`
 
 - **下载**
    
-  `esptool -p COM8 -c esp32 -b 460800 write\_flash -z 0x1000 ESP32\_GENERIC-20231005-v1.21.0.bin` 
+  `esptool -p COM8 -c esp32 -b 460800 write_flash -z 0x1000 ESP32_GENERIC-20231005-v1.21.0.bin` 
 
 上面例子中使用的是 `COM8`，因为在 windows 中串口号会和用户环境有关，所以使用时请修改为实际的串口号（在 windows 下，可以在命令行下通过 `mode` 命令查看系统中可用的串口设备）。如果固件文件不在当前目录，还需要指定固件文件的路径或者先切换到固件文件目录，否则会提示找不到文件。   
    
@@ -57,7 +57,7 @@ Flash Download Tool 支持 esp 全系列的芯片，运行后需要先选择芯�
    
 如果是 Linux 操作系统，需要在终端的 shell 提示符中运行 esptool，使用方式和 windows 下是相同的，主要区别是串口的形式不同，如：
    
-`esptool.py —chip esp32 —port /dev/ttyUSB0 erase\_flash` 
+`esptool.py —chip esp32 —port /dev/ttyUSB0 erase_flash` 
    
 Linux 下串口通常表示为 `/dev/ttyUSB0`、`/dev/ttyS0` 等，有多个设备时序号会递增，可以用 `ls /dev/tty*` 查看。
    

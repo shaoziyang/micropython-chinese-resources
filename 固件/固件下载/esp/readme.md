@@ -2,7 +2,7 @@
 
 esp32 和 esp8266 芯片固件下载的方式是一样的，都是通过 usb 或者串口下载，只是参数上稍有区别。目前有多种软件支持下载固件，下面介绍最主要的几种。
    
-## Flash 下载工具   
+## Flash Download Tool   
 
 Flash 下载工具（Flash Download Tool）是乐鑫官方提供的下载软件，它是一个标准的 windows 软件，带有容易操作的图形界面，可以方便的选择参数并下载程序，是 esp 系列芯片最常用的下载软件之一。Flash 下载工具的链接在：
 
@@ -24,7 +24,7 @@ Flash Download Tool 支持 esp 全系列的芯片，运行后需要先选择芯�
 
 - 0x0000: esp32-c2、esp32-c3、esp32-c6、esp32-s3
 - 0x1000: esp32、esp32-s2
-- 0x2000: esp32-c5
+- 0x2000: esp32-c5、esp32-p4
    
 ## esptool
 

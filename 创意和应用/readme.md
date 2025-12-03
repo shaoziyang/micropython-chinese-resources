@@ -21,3 +21,4 @@
 - [smolOS](smolos/readme.md)
 - [ESP32的带密码保护 OTA Web IDE](esp32的带密码保护ota-web-ide/readme.md)
 - [比一角硬币还小的 ESP32 开发板](比一角硬币还小的esp32开发板/readme.md)
+- [基于 RP2040 的电子鼓名片](基于rp2040的电子鼓名片/readme.md)

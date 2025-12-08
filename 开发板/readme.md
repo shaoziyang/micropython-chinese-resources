@@ -10,6 +10,7 @@
 - [pyboardCN](stm32/pyboardcn/readme.md)
 - [Feather STM32F405 Express](stm32/feather-stm32f405-express/readme.md)
 - [STM32F411CE Black Pill](stm32/stm32f411ce-black-pill/readme.md)
+- [STM32F4 DISCOVERY](stm32/stm32f4discovery/readme.md)
 - [STM32F411E DISCOVERY](stm32/stm32f411ediscovery/readme.md)
 - [STM32F746ZG Nucleo-144](stm32/stm32f746zg/readme.md)
 - [STM32H743ZI Nucleo-144](stm32/stm32h743zi/readme.md)

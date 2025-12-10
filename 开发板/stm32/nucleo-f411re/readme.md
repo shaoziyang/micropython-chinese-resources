@@ -6,6 +6,8 @@ Nucleo 系列开发板是 ST 公司为推广 STM32 微控制器而设计的，�
 
 在 Nucleo 系列开发板中，除了使用 STM32F2/STM32F3 单片机的系列外，其它系列中 只要Flash 容量大于 256K、RAM 大 于 16K 的型号，很多也可以运行micropython。
 
+- [micropython 固件](https://micropython.org/download/NUCLEO_F411RE)
+
 ---
 
 - [Nucleo-64 开发板连接原生 USB 接口](连接usb接口/readme.md)

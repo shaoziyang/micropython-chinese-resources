@@ -5,4 +5,6 @@ PYB Nano 是 MicroPython 中文社区为推广 MicrPython 而专门设计的低�
 ![](pybnano.webp)
 
 
-https://github.com/micropython-Chinese-Community/pyboardCN 
+- https://github.com/micropython-Chinese-Community/pyboardCN 
+- [micropython 固件](https://gitee.com/microbit/MicroPython_firmware/tree/master/PYBNanoV2)
+- [circuitpython 固件](https://circuitpython.org/board/pyb_nano_v2/)

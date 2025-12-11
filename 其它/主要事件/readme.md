@@ -1,6 +1,7 @@
 # 主要事件
 
 - ……
+- 2025年12月 9日，[发布 1.27版：支持 ESP32C5、ESP32P4 和 STM32U5，增强的测试套件，移植级别](https://github.com/micropython/micropython/releases/tag/v1.27.0)
 - 2025年12月 1日，[添加 esp32p4 支持](https://github.com/micropython/micropython/commit/e6f1f7871380950657947a64f6ba0ae724258dc0)
 - 2025年11月17日，[添加 esp32c5 支持](https://github.com/micropython/micropython/commit/713f40d20446240fcc340ffc5180802b0a22452a)
 - 2025年10月 1日，[CircuitPython 10.0.0 发布](https://blog.adafruit.com/2025/10/01/circuitpython-10-0-0-released/)

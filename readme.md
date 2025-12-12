@@ -18,8 +18,9 @@
 - [circuitpython](circuitpython/readme.md)
 - [其它](其它/readme.md)
 ---
-
+- [MicroPython 简介](micropython简介/readme.md)
 - [MicroPython 许可信息](许可信息/readme.md)
+- [中文资料说明](中文资料说明/readme.md)
 ---
 
 ## 链接

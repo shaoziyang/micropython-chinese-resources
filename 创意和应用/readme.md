@@ -23,3 +23,4 @@
 - [比一角硬币还小的 ESP32 开发板](比一角硬币还小的esp32开发板/readme.md)
 - [基于 RP2040 的电子鼓名片](基于rp2040的电子鼓名片/readme.md)
 - [Seeed Studio XIAO ESP32S3 GPIO Viewer](seeed-studio-xiao-esp32s3-gpio-viewer/readme.md)
+- [复古未来混合风格时钟](复古未来混合风格时钟/readme.md)

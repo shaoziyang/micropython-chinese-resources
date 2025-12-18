@@ -8,6 +8,7 @@
 - [CORE-ESP32C3](core-esp32c3/readme.md)
 - [ESP32C3 SuperMini](esp32c3-supermini/readme.md)
 - [ESP32-C6-DevKitC-1](esp32-c6-devkitc-1/readme.md)
+- [ESP32-C61-DevKitC-1](esp32-c61-devkitc-1/readme.md)
 - [Beetle ESP32 C6](beetle-esp32-c6/readme.md)
 - [ESP32 S2 mini](esp32-s2-mini/readme.md)
 - [ESP32-S3-Zero](esp32-s3-zero/readme.md)

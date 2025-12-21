@@ -25,3 +25,4 @@
 - [Seeed Studio XIAO ESP32S3 GPIO Viewer](seeed-studio-xiao-esp32s3-gpio-viewer/readme.md)
 - [复古未来混合风格时钟](复古未来混合风格时钟/readme.md)
 - [老式火车站时钟](老式火车站时钟/readme.md)
+- [Supercon 2025 徽章合成器](supercon-2025-徽章合成器/readme.md)

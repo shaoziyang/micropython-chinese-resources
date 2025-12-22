@@ -5,6 +5,7 @@
 - [ESP32: wake_on_ext0](esp32/esp32.wake_on_ext0/readme.md)
 - [ESP32: wake_on_ext1](esp32/esp32.wake_on_ext1/readme.md)
 - [ESP32: wake_on_gpio](esp32/esp32.wake_on_gpio/readme.md)
+- [esp32：TouchPad](esp32/esp32.touchpad/readme.md)
 
 ## 通用
 

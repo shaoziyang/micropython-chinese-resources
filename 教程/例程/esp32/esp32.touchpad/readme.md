@@ -1,4 +1,4 @@
-# esp32：TouchPad
+# esp32: TouchPad
 
 esp32 的触摸按键，注意只有部分 esp32 的部分 GPIO 支持 TouchPad 功能。
 

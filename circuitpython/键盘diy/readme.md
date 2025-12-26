@@ -19,3 +19,4 @@
 - [picosplit 分体键盘](picosplit分体键盘/readme.md)
 - [木制可编程宏键盘](木制可编程宏键盘/readme.md)
 - [0x33.board RGB MIDI 键盘](0x33.board六角形键盘/readme.md)
+- [Custom-Macropad-KB2040-3x3](custom-macropad-kb2040-3x3/readme.md)

@@ -47,6 +47,7 @@
 - [Seeed Studio XIAO RP2040](rp2/seeed_studio_xiao_rp2040/readme.md)
 - [Seeed Studio XIAO RP2350](rp2/seeed-xiao-rp2350/readme.md)
 - [Shrike Lite](rp2/shrike-lite/readme.md)
+- [RP2040 FlexiBoard](rp2/rp2040-flexiboard/readme.md)
 
 ## [SamD](samd/readme.md)
 

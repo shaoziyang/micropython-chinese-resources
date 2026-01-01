@@ -27,3 +27,4 @@
 - [老式火车站时钟](老式火车站时钟/readme.md)
 - [Supercon 2025 徽章合成器](supercon-2025-徽章合成器/readme.md)
 - [互动跳房子](互动跳房子/readme.md)
+- [Seeed Wio 吃豆人游戏](seeed-wio-吃豆人游戏/readme.md)

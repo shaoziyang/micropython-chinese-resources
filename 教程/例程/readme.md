@@ -10,6 +10,10 @@
 - [ESP32: temperature](esp32/esp32.temperature/readme.md)
 - [ESP32: RTC Memory](eps32/esp32.rtc.memory/readme.md)
 
+## rp2
+
+- [rp2: 读取 boot 按键](rp2/rp2.读取boot按键/readme.md)
+
 ## 通用
 
 - [软串口](generic/softuart/readme.md)

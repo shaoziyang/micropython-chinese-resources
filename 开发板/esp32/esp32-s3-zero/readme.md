@@ -20,4 +20,9 @@ ESP32-S3-Zero(贴片板), ESP32-S3-Zero-M(排针版) 体积小巧，采用半孔
 
 ![](esp32-s3-zero-size.webp)
 
-https://www.waveshare.net/wiki/ESP32-S3-Zero
+
+## 相关链接
+
+- [开发板网站](https://www.waveshare.net/wiki/ESP32-S3-Zero)
+- [micropython 固件](https://micropython.org/download/ESP32_GENERIC_S3)
+- [circuitpython 固件](https://circuitpython.org/board/waveshare_esp32_s3_zero/)

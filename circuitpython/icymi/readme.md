@@ -6,6 +6,7 @@
 
 - https://blog.adafruit.com/?s=ICYMI+Python+on+Microcontrollers+Newsletter
 - https://www.adafruitdaily.com/category/circuitpython/
+- [订阅数据统计](订阅统计数据/readme.md)
 <br>
 * * *
 - ……

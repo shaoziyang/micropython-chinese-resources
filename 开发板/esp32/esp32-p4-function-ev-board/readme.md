@@ -9,5 +9,5 @@ ESP32-P4-Function-EV-Board 是一款基于 ESP32-P4 芯片的多媒体开发板�
 **链接**
 
 - [开发板网址](https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32p4/esp32-p4-function-ev-board/user_guide.html)
-- MicroPython 固件下载
+- [MicroPython 固件下载](https://micropython.org/download/ESP32_GENERIC_P4/)
 - [CircuitPython固件下载](https://circuitpython.org/board/espressif_esp32p4_function_ev/)

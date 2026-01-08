@@ -12,3 +12,5 @@ Beetle ESP32-C6 是一款基于 ESP32-C6 芯片设计的迷你体积的 Arduino 
   * [MicroPython教程](https://wiki.dfrobot.com.cn/SKU_DFR1117_Beetle_ESP32_C6#9.%20MicroPython教程)
 * [原理图](https://img.dfrobot.com.cn/wiki/60c1e008bddfc41c3293de80/cd142fa4c52bad1b1a91346aa1c8f280.pdf)
 * [尺寸图](https://img.dfrobot.com.cn/wiki/60c1e008bddfc41c3293de80/c63e95fbc631519bf9913bfc5e12aa0d.png)
+* [MicroPython 固件下载](https://micropython.org/download/ESP32_GENERIC_C6/)
+* [CircuitPython 固件下载](https://circuitpython.org/board/makergo_esp32c6_supermini/)

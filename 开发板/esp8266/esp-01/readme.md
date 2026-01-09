@@ -5,3 +5,7 @@
 ![](esp-01.webp)
 
 ![](esp-01-pinout.webp)
+
+# 相关链接
+
+- [micropython 固件](https://micropython.org/download/ESP8266_GENERIC/)

@@ -26,18 +26,19 @@
 - 用于电池电量监测的高精度电压基准
 - Qw/ST (Qwiic/STEMMA QT) 连接器
 - 完全组装（无需焊接）
-- [原理图](https://cdn.shopify.com/s/files/1/0174/1800/files/badger_2040_schematic.pdf?v=1645702148)
-- [机械图](https://cdn.shopify.com/s/files/1/0174/1800/files/badgerdiagram.png?v=1647960358)
-- C++/MicroPython 库
-  - [UC8151/IL0373 电子纸显示驱动](../../../MicroPython库/第三方库/uc8151/readme.md)
 
----
-
-- [商品链接](https://shop.pimoroni.com/products/badger-2040)
-- [使用指南](https://learn.pimoroni.com/article/getting-started-with-badger-2040)
-
-
-
+## 相关链接   
+- [micropython 固件](https://github.com/pimoroni/badger2040/releases)   
+- [circuitpython 固件](https://circuitpython.org/board/pimoroni_badger2040w/)   
+- [原理图](https://cdn.shopify.com/s/files/1/0174/1800/files/badger_2040_schematic.pdf?v=1645702148)   
+- [机械图](https://cdn.shopify.com/s/files/1/0174/1800/files/badgerdiagram.png?v=1647960358)   
+- C++/MicroPython 库   
+    - [UC8151/IL0373 电子纸显示驱动](https://object.any.coop/bafyreibpgzxnky3o6nidqvinata3xjgxq7zqluawkxyr4tirhf2lg3lh6u?spaceId=bafyreib5lentrcghqgdizcamftojaedqxkz3o34kdhaoaurflrymhxueb4.1jgha9maxolof)   
+- [商品链接](https://shop.pimoroni.com/products/badger-2040)   
+- [使用指南](https://learn.pimoroni.com/article/getting-started-with-badger-2040)   
+   
+   
+**注：**   
 Badger 2040 有两个版本：Badger 2040 和 Badger 2040 W。
 
 

@@ -4,4 +4,9 @@ RP2040-Zero迷你开发板，板载Type-C母口 采用 Raspberry Pi 研发的 RP
 
 ![](rp2040-zero.webp)
 
-https://www.waveshare.net/wiki/RP2040-Zero
+
+## 相关链接
+
+- [开发板网站](https://www.waveshare.net/wiki/RP2040-Zero)
+- [micropython 固件](https://micropython.org/download/PIMORONI_TINY2040)
+- [circuitpython 固件](https://circuitpython.org/board/waveshare_rp2040_zero/)

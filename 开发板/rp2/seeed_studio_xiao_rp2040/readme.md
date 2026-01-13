@@ -18,6 +18,8 @@ Seeed Studio XIAO RP2040上有14个GPIO引脚，其中包括11个数字引脚、
 
 - [Seeed Studio XIAO RP2040 开发板](https://wiki.seeedstudio.com/cn/XIAO-RP2040/)
 - [Adafruit QT Py RP2040](https://learn.adafruit.com/adafruit-qt-py-2040/overview)
+- [micropython 固件](https://micropython.org/download/ADAFRUIT_QTPY_RP2040/)
+- [circuitpython 固件](https://circuitpython.org/board/seeeduino_xiao_rp2040/)
 
 ## 资源文件
 

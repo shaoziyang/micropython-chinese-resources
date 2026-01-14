@@ -5,4 +5,8 @@ pyboardCN 是 MicroPython 中文社区为学习和研究 MicroPython 而设计�
 ![](pyboardcn_v2.webp)
 
 pyboardCN 也是一个开源项目，包括了完整的原理图、PCB、固件文件。它的网址是：
-https://gitee.com/microbit/pyboardCN
+
+## 相关链接
+
+- [网站](https://gitee.com/microbit/pyboardCN)
+- [micropython 固件](https://gitee.com/microbit/MicroPython_firmware/tree/master/pyboardCN_V2)

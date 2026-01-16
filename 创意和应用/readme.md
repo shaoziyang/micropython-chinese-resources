@@ -29,3 +29,4 @@
 - [互动跳房子](互动跳房子/readme.md)
 - [Seeed Wio 吃豆人游戏](seeed-wio-吃豆人游戏/readme.md)
 - [TinyWiki](tinywiki/readme.md)
+- [巫师水晶法杖](巫师水晶法杖/readme.md)

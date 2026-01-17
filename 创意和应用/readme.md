@@ -30,3 +30,4 @@
 - [Seeed Wio 吃豆人游戏](seeed-wio-吃豆人游戏/readme.md)
 - [TinyWiki](tinywiki/readme.md)
 - [巫师水晶法杖](巫师水晶法杖/readme.md)
+- [迷你 RP2350 电脑](迷你rp2350电脑/readme.md)

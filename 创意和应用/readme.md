@@ -32,3 +32,4 @@
 - [巫师水晶法杖](巫师水晶法杖/readme.md)
 - [迷你 RP2350 电脑](迷你rp2350电脑/readme.md)
 - [NeoKey Trinkey GitHub Launcher](neokey-trinkey-github-launcher/readme.md)
+- [Adafruit Circuit Playground Bluefruit 简单音频播放器](cpb简单音频播放器/readme.md)

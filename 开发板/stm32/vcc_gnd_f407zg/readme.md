@@ -7,3 +7,4 @@
 ## 相关链接
 
 - [micropython 固件](https://micropython.org/download/VCC_GND_F407ZG/)
+- [circuitpython 固件](https://circuitpython.org/board/stm32f4_discovery/)

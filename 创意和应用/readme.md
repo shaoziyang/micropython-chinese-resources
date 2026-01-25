@@ -35,3 +35,4 @@
 - [Adafruit Circuit Playground Bluefruit 简单音频播放器](cpb简单音频播放器/readme.md)
 - [MagTag 日历与天气显示](magtag日历与天气显示/readme.md)
 - [树莓派 Pico W：Wi-Fi 入侵检测系统（WIDS）](wds/readme.md)
+- [ting](ting/readme.md)

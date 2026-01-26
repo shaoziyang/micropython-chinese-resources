@@ -36,3 +36,4 @@
 - [MagTag 日历与天气显示](magtag日历与天气显示/readme.md)
 - [树莓派 Pico W：Wi-Fi 入侵检测系统（WIDS）](wds/readme.md)
 - [ting](ting/readme.md)
+- [RGB LED 环形时钟](rgb-led-环形时钟/readme.md)

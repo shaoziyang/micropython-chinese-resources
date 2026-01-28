@@ -38,3 +38,4 @@
 - [ting](ting/readme.md)
 - [RGB LED 环形时钟](rgb-led-环形时钟/readme.md)
 - [微型城市](tinycity/readme.md)
+- [基于硬件的密码库与传感器仿真](基于硬件的密码库与传感器仿真/readme.md)

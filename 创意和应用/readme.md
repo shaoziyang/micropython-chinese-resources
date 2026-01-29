@@ -39,3 +39,4 @@
 - [RGB LED 环形时钟](rgb-led-环形时钟/readme.md)
 - [微型城市](tinycity/readme.md)
 - [基于硬件的密码库与传感器仿真](基于硬件的密码库与传感器仿真/readme.md)
+- [反恐精英 2 击杀计数器](cs2击杀计数器/readme.md)

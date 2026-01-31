@@ -41,3 +41,4 @@
 - [基于硬件的密码库与传感器仿真](基于硬件的密码库与传感器仿真/readme.md)
 - [反恐精英 2 击杀计数器](cs2击杀计数器/readme.md)
 - [便携式分贝仪](便携式分贝仪/readme.md)
+- [Picotronix](picotronix/readme.md)

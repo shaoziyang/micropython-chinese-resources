@@ -17,4 +17,5 @@
 ## 相关链接
 
 - [项目说明](https://www.instructables.com/I-Built-a-Portable-Decibel-Meter-Using-Raspberry-P/)
+- [hackster 展示](https://www.hackster.io/roboattic_Lab/portable-decibel-meter-using-raspberry-pi-pico-micro-python-ce1596#/)
 - [项目仓库](https://github.com/ShahbazCoder1/Portable-Decibel-Meter-Using-Raspberry-Pi-Pico-and-Micro-Python)

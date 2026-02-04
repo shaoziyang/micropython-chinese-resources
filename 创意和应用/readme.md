@@ -42,3 +42,4 @@
 - [反恐精英 2 击杀计数器](cs2击杀计数器/readme.md)
 - [便携式分贝仪](便携式分贝仪/readme.md)
 - [Picotronix](picotronix/readme.md)
+- [Homekit 兼容的温度监控系统](homekit兼容的温度监控系统/readme.md)

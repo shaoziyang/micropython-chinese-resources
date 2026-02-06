@@ -44,3 +44,4 @@
 - [Picotronix](picotronix/readme.md)
 - [Homekit 兼容的温度监控系统](homekit兼容的温度监控系统/readme.md)
 - [CyberMesh LoRaChat](lorachat/readme.md)
+- [小巧的桌面机器人](小巧的桌面机器人/readme.md)

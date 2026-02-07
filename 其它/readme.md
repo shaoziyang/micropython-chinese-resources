@@ -8,6 +8,7 @@
 - [十周年](十周年/readme.md)
 - [2025年度 python 变化](2025年度python变化/readme.md)
 - [与Matt Trentini一起探讨MicroPython](与matt-trentini一起探讨micropython/readme.md)
+- [墨尔本MicroPython聚会](墨尔本micropython聚会/readme.md)
 
 ---
 

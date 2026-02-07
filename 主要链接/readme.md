@@ -13,6 +13,7 @@
 - [kickstarter众筹](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers)
     - [第二次众筹：esp8266](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot/posts)
 - [Awesome MicroPython](https://awesome-micropython.com/)
+- [墨尔本MicroPython聚会](https://melbournemicropythonmeetup.github.io)
 - [~~gurn知识库~~](https://gurubase.io/g/micropython)
 - [<span style="color: #ab50cc;">**circuitpython**</span>](http://circuitpython.org/)
     - [固件](https://circuitpython.org/downloads)

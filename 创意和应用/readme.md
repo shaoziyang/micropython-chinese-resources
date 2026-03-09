@@ -52,3 +52,4 @@
 - [打造一个农历新年盒子](打造一个农历新年盒子/readme.md)
 - [microclawup](microclawup/redme.md)
 - [翻点显示屏](翻点显示屏/readme.md)
+- [XDA 天气机器人](xda天气机器人/readme.md)

@@ -11,6 +11,7 @@
 - [MicroPython 语言及实现](micropython语言及实现/readme.md)
 - [MicroPython 与 CPython 的差异](micropython与cpython的差异/readme.md)
 - [技巧](技巧/readme.md)
+- [产品](产品/readme.md)
 - [创意和应用](创意和应用/readme.md)
 - [图书](图书/readme.md)
 - [固件](固件/readme.md)

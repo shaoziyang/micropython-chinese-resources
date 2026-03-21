@@ -26,3 +26,4 @@ micropython 中文社区开发、整理的各种传感器驱动、例程等。
 - [DS1302 实时时钟](ds1302/readme.md)
 - [DS1307 实时时钟](ds1307/readme.md)
 - [PCF8563 实时时钟](pcf8563/readme.md)
+- [LIS2DH12TR 加速度传感器](lis2dh12/readme.md)

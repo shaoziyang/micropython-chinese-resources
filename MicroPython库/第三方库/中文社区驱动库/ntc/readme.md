@@ -16,6 +16,7 @@ NTC 热敏电阻测量温度。
 
 ```python
 from machine import ADC, Pin
+from ntc import NTC_VCC, NTC_GND
 
 ADC_T1 = ADC(Pin(34), atten=ADC.ATTN_11DB)
 ADC_T2 = ADC(Pin(33), atten=ADC.ATTN_11DB)
@@ -28,3 +29,8 @@ T2 = NTC_GND(ADC_T2.read_uv()/1000, 3300, B=3950)
 
 ![](../../../../开发软件/模拟运行/proteus/ntc.gif)
 
+
+## 相关链接
+- 社区驱动
+	- [github](https://github.com/shaoziyang/mpy-lib/tree/master/sensor/NTC)
+	- [gitee](https://gitee.com/shaoziyang/mpy-lib/tree/master/sensor/NTC)

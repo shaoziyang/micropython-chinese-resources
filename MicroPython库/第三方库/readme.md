@@ -20,3 +20,4 @@
 - [Micropython Mock Machine](micropython-mock-machine/readme.md)
 - [单线数据通信](singlelinedatatrans/readme.md)
 - [µReticulum](µreticulum/readme.md)
+- [MicroPython uSunfish 国际象棋引擎](usunfish/readme.md)

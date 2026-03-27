@@ -13,4 +13,5 @@
 - [ramdisk的使用](ramdisk的使用/readme.md)
 - [在安卓上通过 Termux 上使用 ESP32](在安卓上通过termux上使用esp32/readme.md)
 - [自学习时钟](自学习时钟/readme.md)
+- [使用memoryview](使用memoryview/readme.md)
 - [软件使用技巧](软件使用技巧/readme.md)

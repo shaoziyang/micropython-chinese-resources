@@ -64,6 +64,7 @@
 
 - [Teensy 4.0](其它/teensy4.0/readme.md)
 - [Teensy 4.1](其它/teensy4.1/readme.md)
+- [FRDM-MCXN947](其它/frdm-mcxn947/readme.md)
 - [micro:bit](其它/microbit/readme.md)
 - [Feather nRF52840 Express](其它/feather-nrf52840-express/readme.md)
 - [micropython 发明者套件](其它/发明者套件/readme.md)

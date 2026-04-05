@@ -185,3 +185,9 @@ NTC 热敏电阻。
 
 ![](mcp401x.gif)
 
+
+### AT24C32
+
+AT24 系列 eeprom。
+
+![](at24c32.gif)

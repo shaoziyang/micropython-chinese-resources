@@ -27,7 +27,7 @@ T2 = NTC_GND(ADC_T2.read_uv()/1000, 3300, B=3950)
 
 ## proteus 模拟效果
 
-![](../../../../开发软件/模拟运行/proteus/ntc.gif)
+![](../../../../开发软件/模拟运行/proteus仿真/ntc.gif)
 
 
 ## 相关链接

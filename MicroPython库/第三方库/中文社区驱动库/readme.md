@@ -33,3 +33,4 @@ micropython 中文社区开发、整理的各种传感器驱动、例程等。
 - [AHT20 数字温湿度传感器](aht20/readme.md)
 - [Si7051 高精度温度传感器](si7051/readme.md)
 - [STTS751 数字温度传感器](stts751/readme.md)
+- [AT24系列 EEPROM](at24xx/readme.md)

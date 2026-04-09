@@ -47,4 +47,15 @@ make -C ports/esp32
 make -C ports/esp32 BOARD=LOLIN_S2_MINI -j4
 ```
 
+为 ESP32_GENERIC_S3 启用 octal-SPIRAM 支持：
+```
+make -C ports/esp32/ BOARD=ESP32_GENERIC_S3 BOARD_VARIANT=SPIRAM_OCT -j8
+```
+
+允许 DEFLATE 压缩功能：
+```
+make -C ports/esp32/ -j8 CFLAGS_EXTRA="-DMICROPY_PY_DEFLATE_COMPRESS=1"
+```
+
+
 除了自行安装 esp-idf 工具链外，还可以从 github 下载其他人共享的 esp-idf 工具链。此外还可以通过 docker 方式，直接使用其他人创建好的编译环境，这里就不展开介绍了。

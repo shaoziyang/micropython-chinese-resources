@@ -25,7 +25,7 @@ bmp280 是 bmp180 的升级型号，它在提升性能、增加 spi 接口、缩
 
 ## 使用方法
 
-需要先将 [bmp280 驱动](https://gitee.com/microbit/mpy-lib/tree/master/sensor/bmp280) 复制到开发板中
+需要先将 [bmp280 驱动](https://gitee.com/shaoziyang/mpy-lib/tree/master/sensor/bmp280) 复制到开发板中
 
 ```py
 from machine import I2C
@@ -44,3 +44,11 @@ while True:
 ## proteus 模拟效果
 
 ![](../../../../开发软件/模拟运行/proteus仿真/bmp280.gif)
+
+
+## 相关链接
+
+- [数据手册](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf)
+- 社区驱动
+  - [github](https://github.com/shaoziyang/mpy-lib/tree/master/sensor/bmp280)
+  - [gitee](https://gitee.com/shaoziyang/mpy-lib/tree/master/sensor/bmp280)

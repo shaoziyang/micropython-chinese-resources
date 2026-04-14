@@ -26,9 +26,9 @@ finalize 对象是 ref 对象的扩展版本，使用起来更方便，并允许
 
 - class weakref.`finalize`(object, callback, / , \*args, \*\*kwargs)
 
-  返回对给定对象的弱引用。与 *weakref.ref* 对象不同，finalize 对象在内部保留，在对象被收集之前不会被收集。
+  返回对给定对象的弱引用。与 *weakref.ref* 对象不同，finalize 对象在内部保留，在对象被回收之前不会被回收。
 
-  finalize 对象从活动状态开始。当调用 finalize 对象时，无论是显式调用还是收集对象时，它都会转换为死状态。如果调用 `finalize.detach()` 方法，它也会转换为dead。
+  finalize 对象从活动状态开始。当调用 finalize 对象时，无论是显式调用还是回收对象时，它都会转换为死状态。如果调用 `finalize.detach()` 方法，它也会转换为 dead。
 	
   当垃圾回收器回收对象（或用户代码显式调用finalize对象）并且finalize对象仍处于活动状态时，将调用 *callback*。回调函数将传递以下参数：`callback(*args, **kwargs)`。
 

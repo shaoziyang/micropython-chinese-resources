@@ -61,3 +61,4 @@
 - [给🪴植物赋予个性](给植物赋予个性/readme.md)
 - [日出闹钟](日出闹钟/readme.md)
 - [服药提醒盒子](服药提醒盒子/readme.md)
+- [MicroPython的MCP服务器](mcp服务器/readme.md)

@@ -20,10 +20,15 @@ https://micropython.org/download
 
 除了官方固件，还有一些第三方固件，这些固件通常在官方固件的基础上进行了修改和优化，增加了更多的功能和特性。
 
-- [LoBo ESP32](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo)，最早的 esp32 移植版（早于官方）
+- [ESP32 LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo)，最早的 esp32 移植版（早于官方）
+- [K210_LoBo](https://github.com/loboris/MicroPython_K210_LoBo)，早期的 k210 移植版
 - [RTL8722](https://www.amebaiot.com/en/amebad-micropython-getting-started/)，很久未更新
 	- [源码](https://github.com/ambiot/micropython)
 - [FRDM-K64F](https://github.com/teddokano/MicroPython_v1.19.1_zephyr-frdm_k64f)，无源码，无更新
+- 勘智
+  - [K210](https://github.com/sipeed/MaixPy-v1)，矽速移植版
+  - [K230](https://www.kendryte.com/zh/resource/images,k230)
+- [PSoc6](https://github.com/Infineon/micropython)
 
 ## 固件下载
 

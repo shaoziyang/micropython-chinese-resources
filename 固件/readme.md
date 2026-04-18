@@ -29,7 +29,9 @@ https://micropython.org/download
   - [K210](https://github.com/sipeed/MaixPy-v1)，矽速移植版
   - [K230](https://www.kendryte.com/zh/resource/images,k230)
 - [PSoc6](https://github.com/Infineon/micropython)
-
+- [pycom](https://github.com/pycom/pycom-micropython-sigfox)
+  - [文档](https://docs.pycom.io/)
+  
 ## 固件下载
 
 一般情况下，需要先下载 MicroPython 固件到芯片/开发板，然后才能执行各种功能。

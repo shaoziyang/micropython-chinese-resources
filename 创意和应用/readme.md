@@ -62,3 +62,4 @@
 - [日出闹钟](日出闹钟/readme.md)
 - [服药提醒盒子](服药提醒盒子/readme.md)
 - [MicroPython的MCP服务器](mcp服务器/readme.md)
+- [DIY一个多功能甲醛检测仪](diy一个多功能甲醛检测仪/readme.md)

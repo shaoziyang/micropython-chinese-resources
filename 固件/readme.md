@@ -31,7 +31,9 @@ https://micropython.org/download
 - [PSoc6](https://github.com/Infineon/micropython)
 - [pycom](https://github.com/pycom/pycom-micropython-sigfox)
   - [文档](https://docs.pycom.io/)
-  
+- [Pybricks](https://github.com/pybricks/pybricks-micropython)，用于 LEGO® 集线器编程
+  - [在线编程环境](https://code.pybricks.com/)
+
 ## 固件下载
 
 一般情况下，需要先下载 MicroPython 固件到芯片/开发板，然后才能执行各种功能。

@@ -33,6 +33,9 @@ https://micropython.org/download
   - [文档](https://docs.pycom.io/)
 - [Pybricks](https://github.com/pybricks/pybricks-micropython)，用于 LEGO® 集线器编程
   - [在线编程环境](https://code.pybricks.com/)
+- [QuecPython](https://python.quectel.com/doc/quecpython/)，移远定制版
+  - [文档](https://python.quectel.com/doc/quecpython/API_reference/zh/)
+  - [github](https://github.com/quecpython)
 
 ## 固件下载
 

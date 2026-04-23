@@ -10,6 +10,7 @@
 - [Visual Studio Code](vscode/readme.md)
 - [pycharm](pycharm/readme.md)
 - [Arduino Lab for MicroPython](arduino-lab-for-micropython/readme.md)
+- [eric7 MicroPython](eric7/readme.md)
 
 **图形化编程**
 - [MPY Blockly](mpyblockly/readme.md)

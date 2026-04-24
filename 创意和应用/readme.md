@@ -63,3 +63,4 @@
 - [服药提醒盒子](服药提醒盒子/readme.md)
 - [MicroPython的MCP服务器](mcp服务器/readme.md)
 - [DIY一个多功能甲醛检测仪](diy一个多功能甲醛检测仪/readme.md)
+- [超高速 MSP430 编程器](超高速msp430编程器/readme.md)

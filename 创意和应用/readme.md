@@ -65,3 +65,4 @@
 - [DIY一个多功能甲醛检测仪](diy一个多功能甲醛检测仪/readme.md)
 - [超高速 MSP430 编程器](超高速msp430编程器/readme.md)
 - [LED 水晶](led水晶/readme.md)
+- [用树莓派 Pico DIY 机械键盘](diy机械键盘/readme.md)

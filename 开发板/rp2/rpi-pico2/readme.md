@@ -26,6 +26,9 @@
 - 树莓派 Pico2 固件
     - [micropython 固件](https://micropython.org/download/RPI_PICO2)
     - [circuitpython 固件](https://circuitpython.org/board/raspberry_pi_pico2/)
+    - [circuitpython Zephyr 版固件](https://circuitpython.org/board/raspberrypi_rpi_pico2_zephyr/)
 - 树莓派 Pico2 W 固件
     - [micropython 固件](https://micropython.org/download/RPI_PICO2_W)
     - [circuitpython 固件](https://circuitpython.org/board/raspberry_pi_pico2_w/)
+    - [circuitpython Zephyr 版固件](https://circuitpython.org/board/raspberrypi_rpi_pico2_w_zephyr/)
+    

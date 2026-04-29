@@ -40,6 +40,8 @@ Pico W 在 Pico 基础上，增加了 Wifi 和蓝牙功能，更适合物联网�
 - 树莓派 Pico 固件
     - [micropython 固件](https://micropython.org/download/RPI_PICO/)
     - [circuitpython 固件](https://circuitpython.org/board/raspberry_pi_pico/)
+    - [circuitpython Zephyr 版固件](https://circuitpython.org/board/raspberrypi_rpi_pico_zephyr/)
 - 树莓派 Pico W 固件
     - [micropython 固件](https://micropython.org/download/RPI_PICO_W/)
     - [circuitpython 固件](https://circuitpython.org/board/raspberry_pi_pico_w/)
+    - [circuitpython Zephyr 版固件](https://circuitpython.org/board/raspberrypi_rpi_pico_w_zephyr/)

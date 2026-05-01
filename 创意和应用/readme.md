@@ -66,3 +66,4 @@
 - [超高速 MSP430 编程器](超高速msp430编程器/readme.md)
 - [LED 水晶](led水晶/readme.md)
 - [用树莓派 Pico DIY 机械键盘](diy机械键盘/readme.md)
+- [USB 便携式可编程仪表](usb便携式可编程仪表/readme.md)

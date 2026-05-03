@@ -8,5 +8,6 @@
 - [CircuitPython与micropython的主要区别](circuitpython与micropython的主要区别/readme.md)
 - [命令行固件更新工具 circfirm](命令行固件更新工具circfirm/readme.md)
 - [IoT With CircuitPython](iot_with_circuitpython/readme.md)
+- [WASM 的 circuitpython 非官方移植](wasm/readme.md)
 - [键盘 DIY](键盘diy/readme.md)
 - [在线工具](在线工具/readme.md)

@@ -12,6 +12,7 @@
 - [PWM](#PWM)
 - [ADC](#ADC)
 - [DAC](#DAC)
+- [Pulse Counter (pin pulse/edge counting)](#PulseCounter)
 - [Software SPI bus](#SoftwareSPIbus)
 - [Hardware SPI bus](#HardwareSPIbus)
 - [Software I2C bus](#SoftwareI2Cbus)
@@ -196,7 +197,7 @@ print(pwm2)                               # view PWM settings
 
 ESP 系列芯片有不同的硬件外设
 
-|硬件规格|ESP32|ESP32-S2|ESP32-C3|
+|硬件规格|ESP32|ESP32-S2, ESP32-S3, ESP32-P4|ESP32-C2, ESP32-C3, ESP32-C5, ESP32-C6, ESP32-H2|
 |-|-|-|-|
 |Number of groups (speed modes)|2|1|1|
 |Number of timers per group|4|4|4|
@@ -218,13 +219,45 @@ adc.width(ADC.WIDTH_9BIT)   # set 9 bit return values (returned range 0-511)
 adc.read()                  # read value using the newly configured attenuation and width
 ```
 
-### <a name='DAC'>DAC
+#### <a name='DAC'>DAC (digital to analog conversion)</a>
 在esp32上，引脚25、26用于DAC；而在esp32s2上，DAC引脚是17、18；esp32c3/esp32s3等上没有DAC功能。
 ```py
 from machine import DAC, Pin
 dac = DAC(Pin(25))
 dac.write(128)
 ```
+
+### <a name='#PulseCounter'>脉冲计数器(引脚脉冲/边缘计数)</a>
+ESP32 提供最多 8 个脉冲外设，具体取决于硬件。对应 id 0 - 7。可以配置为在任意输入引脚上计算上升和/或下降沿。
+
+使用 `esp32.PCNT` 类:
+
+```py
+from machine import Pin
+from esp32 import PCNT
+
+counter = PCNT(0, pin=Pin(2), rising=PCNT.INCREMENT)        # create counter
+counter.start()                                             # start counter
+count = counter.value()                                     # read count, -32768..32767
+counter.value(0)                                            # reset counter
+count = counter.value(0)                                    # read and reset
+```
+
+PCNT硬件支持在单个单元中监控多个引脚，实现二次解码或向上/向下信号计数器。
+
+请参阅 `machine.Counter` 和 `machine.Engorder` 类，了解脉冲计数应用程序的更简单抽象:
+
+```py
+from machine import Pin, Counter
+
+counter = Counter(0, Pin(2))    # create a counter as above and start it
+count = counter.value()         # read the count as an arbitrary precision signed integer
+
+encoder = Encoder(0, Pin(12), Pin(14))    # create an encoder and begin counting
+count = encoder.value()                   # read the count as an arbitrary precision signed integer
+```
+
+请注意，传递给 `Counter()` 和 `Encoder()` 对象的 id 必须是 PCNT 的 id。
 
 ### <a name='SoftwareSPIbus'>Software SPI bus</a>
 ```py

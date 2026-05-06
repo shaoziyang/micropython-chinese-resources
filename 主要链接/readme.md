@@ -25,7 +25,9 @@
     - [论坛](https://forums.adafruit.com/index.php)
     - [博客](https://blog.adafruit.com/)
 - [PSoc6](https://github.com/infineon/micropython)
-- [**<span style="color: #ffb522;">micropython中文社区</span>**](https://www.micropython.org.cn/)
-    - [中文社区交流](https://github.com/shaoziyang/micropython-chinese-resources/discussions)
+- [Arduino 的 MicroPython 文档](https://docs.arduino.cc/micropython/)
+- **micropython中文社区**
+    - [eeworld micropython 版块](https://bbs.eeworld.com.cn/forum-243-1.html)
+    - [中文社区github交流](https://github.com/shaoziyang/micropython-chinese-resources/discussions)
     - 社区微信公众号  
     ![](wxgzh.webp)

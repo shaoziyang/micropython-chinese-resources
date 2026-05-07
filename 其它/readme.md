@@ -14,6 +14,7 @@
 - [micropython 已添加到 debian 软件仓库](0002/readme.md)
 - [100 天，100 个物联网项目](0003/readme.md)
 - [upypi](upypi/readme.md)
+- [MicroPython入选谷歌文档季](谷歌文档季/readme.md)
 
 ---
 

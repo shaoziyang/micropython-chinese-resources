@@ -22,3 +22,4 @@
 - [µReticulum](µreticulum/readme.md)
 - [MicroPython uSunfish 国际象棋引擎](usunfish/readme.md)
 - [ulab](ulab/readme.md)
+- [MicroPython GoogleSheet](micropython-googlesheet/readme.md)

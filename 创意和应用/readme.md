@@ -68,3 +68,4 @@
 - [用树莓派 Pico DIY 机械键盘](diy机械键盘/readme.md)
 - [USB 便携式可编程仪表](usb便携式可编程仪表/readme.md)
 - [带声音和红外遥控的云灯](带声音和红外遥控的云灯/readme.md)
+- [jumping-jerboa](jumping-jerboa/readme.md)

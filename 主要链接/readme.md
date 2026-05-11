@@ -4,6 +4,7 @@
 
 - [**官网**](http://micropython.org/)
 - [文档](http://docs.micropython.org/en/latest/)
+    - [pdf](https://docs.micropython.org/en/latest/micropython-docs.pdf)
 - [固件](https://micropython.org/download/)
 - [源码](https://github.com/micropython/micropython)
 - [源码提交记录](https://github.com/micropython/micropython/commits/master)

@@ -1,6 +1,7 @@
 # 主要事件
 
 - ……
+- 2026年 5月15日，[支持 ESPNOW 2.0](https://github.com/micropython/micropython/commit/cfdace9745fdd5063465d45c611b27efa09576ec)
 - 2026年 4月 6日，[发布 1.28版：ALIF 和 STM32 上的 PWM，新的 machine.CAN API、t-strings 和 weakref 模块](https://github.com/micropython/micropython/releases/tag/v1.28.0)
 - 2025年12月 9日，[发布 1.27版：支持 ESP32C5、ESP32P4 和 STM32U5，增强的测试套件，移植级别](https://github.com/micropython/micropython/releases/tag/v1.27.0)
 - 2025年12月 1日，[添加 esp32p4 支持](https://github.com/micropython/micropython/commit/e6f1f7871380950657947a64f6ba0ae724258dc0)

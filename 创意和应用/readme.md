@@ -70,3 +70,4 @@
 - [带声音和红外遥控的云灯](带声音和红外遥控的云灯/readme.md)
 - [jumping-jerboa](jumping-jerboa/readme.md)
 - [Keyboard Forward](keyboard-forward/readme.md)
+- [快捷键宏键盘](macropad-hotkeys/readme.md)

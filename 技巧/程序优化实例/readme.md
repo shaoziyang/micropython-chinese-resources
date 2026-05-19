@@ -1,6 +1,6 @@
 # Micropython程序优化实例
 
-这个优化例子来自 Damien 在 pycomau 上的演讲使用MicroPython高效快速编程。
+这个优化例子来自 Damien 在 pycomau 上的演讲使用MicroPython高效快速编程(Writing fast and efficient MicroPython)。演讲视频下载：https://www.alipan.com/s/yGctGp2GeX3 提取码: 88oz。
 
 首先我们看下面的程序，它在循环中翻转LED，然后通过运行的时间和翻转次数，计算出每秒翻转的频率。
 

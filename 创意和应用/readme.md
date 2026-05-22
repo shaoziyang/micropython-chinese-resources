@@ -71,3 +71,4 @@
 - [jumping-jerboa](jumping-jerboa/readme.md)
 - [Keyboard Forward](keyboard-forward/readme.md)
 - [快捷键宏键盘](macropad-hotkeys/readme.md)
+- [MatrixPortal 智能信息面板](matrixportal智能信息面板/readme.md)

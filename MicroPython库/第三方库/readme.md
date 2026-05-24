@@ -23,3 +23,4 @@
 - [MicroPython uSunfish 国际象棋引擎](usunfish/readme.md)
 - [ulab](ulab/readme.md)
 - [MicroPython GoogleSheet](micropython-googlesheet/readme.md)
+- [NeoPixel Matrix for MicroPython](micropython_neopixel_matrix/readme.md)

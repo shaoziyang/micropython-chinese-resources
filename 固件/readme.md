@@ -20,23 +20,27 @@ https://micropython.org/download
 
 除了官方固件，还有一些第三方固件，这些固件通常在官方固件的基础上进行了修改和优化，增加了更多的功能和特性。
 
+- [OpenMV](https://openmv.io/)，机器视觉分支
+  - [github](https://github.com/openmv/openmv)
+  - [星瞳科技中文教程](https://book.openmv.cc)
 - [ESP32 LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo)，最早的 esp32 移植版（早于官方）
 - [LiteX (FPGA)](https://github.com/litex-hub/micropython/tree/litex-rebase/ports/litex)
 - [K210_LoBo](https://github.com/loboris/MicroPython_K210_LoBo)，早期的 k210 移植版
 - [RTL8722](https://www.amebaiot.com/en/amebad-micropython-getting-started/)，很久未更新
-	- [源码](https://github.com/ambiot/micropython)
+  - [源码](https://github.com/ambiot/micropython)
 - [FRDM-K64F](https://github.com/teddokano/MicroPython_v1.19.1_zephyr-frdm_k64f)，无源码，无更新
 - 勘智
   - [K210](https://github.com/sipeed/MaixPy-v1)，矽速移植版
   - [K230](https://www.kendryte.com/zh/resource/images,k230)
 - [PSoc6](https://github.com/Infineon/micropython)
-- [pycom](https://github.com/pycom/pycom-micropython-sigfox)
+- [pycom](https://github.com/pycom/pycom-micropython-sigfox)，LoRa/Sigfox 物联网通信版
   - [文档](https://docs.pycom.io/)
 - [Pybricks](https://github.com/pybricks/pybricks-micropython)，用于 LEGO® 集线器编程
   - [在线编程环境](https://code.pybricks.com/)
 - [QuecPython](https://python.quectel.com/doc/quecpython/)，移远定制版
   - [文档](https://python.quectel.com/doc/quecpython/API_reference/zh/)
   - [github](https://github.com/quecpython)
+
 
 ## 固件下载
 

@@ -40,6 +40,7 @@ https://micropython.org/download
 - [QuecPython](https://python.quectel.com/doc/quecpython/)，移远定制版
   - [文档](https://python.quectel.com/doc/quecpython/API_reference/zh/)
   - [github](https://github.com/quecpython)
+- [MicroPython for AmigaOS (m68k)](https://aminet.net/package/dev/lang/micropython)
 
 
 ## 固件下载

@@ -41,7 +41,8 @@ https://micropython.org/download
   - [文档](https://python.quectel.com/doc/quecpython/API_reference/zh/)
   - [github](https://github.com/quecpython)
 - [MicroPython for AmigaOS (m68k)](https://aminet.net/package/dev/lang/micropython)
-
+- [W600](https://www.wemos.cc/en/latest/w600/w600_pico.html)
+  - [W60X MicroPython 使用手册 pdf](https://www.winnermicro.com/upload/1/editor/1546606606618.pdf)
 
 ## 固件下载
 

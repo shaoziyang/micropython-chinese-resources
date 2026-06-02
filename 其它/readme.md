@@ -16,6 +16,7 @@
 - [upypi](upypi/readme.md)
 - [MicroPython入选谷歌文档季](谷歌文档季/readme.md)
 - [欢迎进入MicroPython的奇妙世界](欢迎进入micropython的奇妙世界/readme.md)
+- [树莓派 Pico 2 超频指南](树莓派pico2超频实验/readme.md)
 
 ---
 

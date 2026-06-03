@@ -78,6 +78,13 @@ NeoPixel/WS2812 灯带.
 ![](neopixel.gif)
 
 
+### neopixel 16x16 点阵
+
+NeoPixel/WS2812 16x16 点阵显示屏，交错方式。支持4个方向，内置两种字体（可扩展）。
+
+![](n16x16_matrix.gif)
+
+
 ### TM1637
 
 数码管驱动。

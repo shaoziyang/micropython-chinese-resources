@@ -1,6 +1,19 @@
 # wokwi
 
+wokwi 在线仿真，无需安装任何软件，通过主流浏览器就可以使用。仿真程序可以通过链接打开，或者在 [wokwi](https://wokwi.com/projects/new/micropython-pi-pico) 网站上，将 zip 文件内的内容复制到 `diagram.json`、`main.py`，并将相应驱动文件（如果存在）上传后使用。
+
 ## 显示
+
+### LCD1602
+
+4 位方式驱动 LCD 16x2 字符型液晶
+
+https://wokwi.com/projects/465884703714579457
+
+- [lcd1602_4bit_mode.zip](lcd1602_4bit_mode.zip)
+
+![](lcd1602_4bit_mode.gif)
+
 
 ### neopixel 16x16 点阵
 

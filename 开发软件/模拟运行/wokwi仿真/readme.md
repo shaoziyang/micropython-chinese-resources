@@ -15,6 +15,15 @@ https://wokwi.com/projects/465884703714579457
 ![](lcd1602_4bit_mode.gif)
 
 
+### I2C LCD1206
+
+i2c 接口 LCD1206 液晶。仿真器内置的 LCD1206 设备地址是 `39`。
+
+- [i2c_lcd1206.zip](i2c_lcd1206.zip)
+
+![](i2c_lcd1206.gif)
+
+
 ### neopixel 16x16 点阵
 
 https://wokwi.com/projects/465793182369353729 

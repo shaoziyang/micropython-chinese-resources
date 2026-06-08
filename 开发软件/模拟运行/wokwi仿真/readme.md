@@ -24,6 +24,15 @@ i2c 接口 LCD1206 液晶。仿真器内置的 LCD1206 设备地址是 `39`。
 ![](i2c_lcd1206.gif)
 
 
+### Lcd1602 bigdigit
+
+在 LCD1602 上显示大字体数字。
+
+- [lcd1602_bigdigit.zip](lcd1602_bigdigit.zip)
+
+![](lcd1602_bigdigit.gif)
+
+
 ### neopixel 16x16 点阵
 
 https://wokwi.com/projects/465793182369353729 

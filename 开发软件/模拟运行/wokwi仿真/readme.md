@@ -33,6 +33,17 @@ i2c 接口 LCD1206 液晶。仿真器内置的 LCD1206 设备地址是 `39`。
 ![](lcd1602_bigdigit.gif)
 
 
+### LCD1602_595
+
+使用 74HC595 驱动 LCD1602，速度比 I2C 快很多。
+
+https://wokwi.com/projects/465975811673946113
+
+- [lcd1602_595.zip](lcd1602_595.zip)
+
+![](lcd1602_595.gif)
+
+
 ### neopixel 16x16 点阵
 
 https://wokwi.com/projects/465793182369353729 

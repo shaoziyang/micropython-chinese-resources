@@ -44,6 +44,17 @@ https://wokwi.com/projects/465975811673946113
 ![](lcd1602_595.gif)
 
 
+### neopixel
+
+NeoPixel/WS2812 灯带.
+
+https://wokwi.com/projects/465978065476227073
+
+- [neopixel.zip](neopixel.zip)
+
+![](neopixel.gif)
+
+
 ### neopixel 16x16 点阵
 
 https://wokwi.com/projects/465793182369353729 

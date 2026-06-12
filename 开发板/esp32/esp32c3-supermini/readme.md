@@ -19,3 +19,4 @@
 - [开发板说明](https://www.nologo.tech/product/esp32/esp32c3/esp32c3supermini/esp32C3SuperMini.html)
 - [micropython 固件](https://micropython.org/download/ESP32_GENERIC_C3/)
 - [circuitpython 固件](https://circuitpython.org/board/makergo_esp32c3_supermini/)
+- [ESP32 C3 超迷你外壳](https://makerworld.com.cn/zh/models/158533-esp32-c3-chao-mi-ni-wai-ke#profileId-71138)

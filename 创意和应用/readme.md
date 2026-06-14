@@ -74,3 +74,4 @@
 - [MatrixPortal 智能信息面板](matrixportal智能信息面板/readme.md)
 - [CircuitPython 自行车电脑](circuitpython自行车电脑/readme.md)
 - [Datasette Agent Micropython](datasette-agent-micropython/readme.md)
+- [衍射光栅钟](衍射光栅钟/readme.md)

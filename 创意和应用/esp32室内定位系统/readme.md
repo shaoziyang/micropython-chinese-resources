@@ -25,6 +25,73 @@
 Anchor Node 2     Anchor Node 3
 ```
 
+## 数学模型
+
+**RSSI 距离估算**
+
+$ d = 10^{\frac{A - RSSI}{10n}} $
+
+其中
+- `d` = 估计距离
+- `A` = 1米处 RSSI
+- `n` = 路径损耗
+- `RSSI` = 接收信号强度指示
+
+**A值的计算**
+A 的值是通过将 ESP32 设备放置在距离锚节点仅1米处并记录多个RSSI样本来计算的。
+
+公式
+
+$ A = \frac{\sum RSSI_i}{N} $
+
+其中
+- `RSSI_i` = 单独 RSSI 采样
+- `N` = 样本总数
+
+**路径损耗指数计算(N)**
+路径损耗指数取决于室内环境,例如:
+- 墙壁
+- 障碍
+- 反思
+- 多路径干扰
+
+典型值
+
+| 环境 | N 值 |
+|-|-|
+| 自由空间 | 2.0 |
+| 办公室 | 2.0 - 4.0 |
+| 密集的室内环境 | 4.0 - 6.0 |
+
+公式
+
+$ N = \frac{A - RSSI}{10 \log_{10}(d)} $
+
+其中
+
+- `A` = 1米处RSSI
+- `RSSI` = 距离 `d` 测量 RSSI
+- `d` = 以米为单位的已知距离
+
+## 卡尔曼滤波
+
+$ \hat{x}_k = \hat{x}_{k-1} + K_k(z_k - \hat{x}_{k-1}) $
+
+其中
+
+- $ \hat{x}_k $ =  RSSI 滤波值
+- `z_k` = RSSI 测量值
+- `K_k` = 卡尔曼增益
+
+
+## 三角计算公式
+
+$ (x-x_i)^2 + (y-y_i)^2 = r_i^2 $
+
+
+用于使用三个锚节点来估计目标节点位置。
+
+
 ## 相关链接
 
 - [reddit](https://www.reddit.com/r/esp32projects/comments/1tl6ng0/built_indoor_positioning_system_on_esp32_using_3/)

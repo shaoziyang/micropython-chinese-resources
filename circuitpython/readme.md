@@ -14,3 +14,4 @@
 ---
 - [键盘 DIY](键盘diy/readme.md)
 - [在线工具](在线工具/readme.md)
+- [第三方库](第三方库/readme.md)

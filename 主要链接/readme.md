@@ -7,6 +7,7 @@
     - [pdf](https://docs.micropython.org/en/latest/micropython-docs.pdf)
 - [固件](https://micropython.org/download/)
 - [源码](https://github.com/micropython/micropython)
+    - [sourceforge](https://sourceforge.net/projects/micropython.mirror/files/)
 - [源码提交记录](https://github.com/micropython/micropython/commits/master)
 - [发行版](https://github.com/micropython/micropython/releases)
 - [github讨论](https://github.com/orgs/micropython/discussions)

@@ -1,4 +1,4 @@
-# wokwi
+# wokwi仿真效果
 
 wokwi 在线仿真，无需安装任何软件，通过主流浏览器就可以使用。仿真程序可以通过链接打开，或者在 [wokwi](https://wokwi.com/projects/new/micropython-pi-pico) 网站上，将 zip 文件内的内容复制到 `diagram.json`、`main.py`，并将相应驱动文件（如果存在）上传后使用。
 

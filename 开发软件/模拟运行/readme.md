@@ -4,6 +4,7 @@
 
 - [Unicorn](unicorn/readme.md)
 - [wokwi](wokwi/readme.md)
+- [vlexio](vlexio/readme.md)
 - [proteus](proteus/readme.md)
 
 

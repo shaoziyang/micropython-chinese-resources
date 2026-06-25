@@ -6,6 +6,7 @@
 
 **IDE**
 - [Thonny](thonny/readme.md)
+- [Snakie](snakie/readme.md)
 - [RV Circuit Studio](rvcircuit-studio/readme.md)
 - [Mu Editor](mu/readme.md)
 - [Visual Studio Code](vscode/readme.md)

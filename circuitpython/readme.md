@@ -11,6 +11,7 @@
 - [WASM 的 circuitpython 非官方移植](wasm/readme.md)
 - [在 CircuitPython 中使用传感器](在circuitpython中使用传感器/readme.md)
 - [BasicPython](basicpython/readme.md)
+- [CircuitPython MCP Server](circuitpython-mcp-server/readme.md)
 ---
 - [键盘 DIY](键盘diy/readme.md)
 - [在线工具](在线工具/readme.md)

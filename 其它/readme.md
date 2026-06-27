@@ -19,6 +19,7 @@
 - [MicroPython at EuroPython and EuroScipy 2026](micropython-at-europython-and-euroscipy-2026/readme.md)
 - [树莓派 Pico 2 超频指南](树莓派pico2超频实验/readme.md)
 - [CircuitPython/MicroPython Filesystem](circuitpython-filesystem/readme.md)
+- [micro:bit 群模拟器](swarm_sim/readme.md)
 
 ---
 

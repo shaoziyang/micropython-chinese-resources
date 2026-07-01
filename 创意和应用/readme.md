@@ -76,3 +76,4 @@
 - [Datasette Agent Micropython](datasette-agent-micropython/readme.md)
 - [衍射光栅钟](衍射光栅钟/readme.md)
 - [ESP32 室内定位系统](esp32室内定位系统/readme.md)
+- [采用 TUFTY 2350 和 MLX90640 制作热像仪](build-a-thermal-camera-with-tufty-2350/readme.md)

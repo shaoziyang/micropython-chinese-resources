@@ -24,6 +24,7 @@
 - [ESP8684-DevKitC-2-N4](esp32/esp8684-devkitc-2-n4/readme.md)
 - [CORE-ESP32C3](esp32/core-esp32c3/readme.md)
 - [ESP32C3 SuperMini](esp32/esp32c3-supermini/readme.md)
+- [ESP32-C5-DevKitC-1](esp32/esp32-c5-devkitc-1/readme.md)
 - [ESP32-C6-DevKitC-1](esp32/esp32-c6-devkitc-1/readme.md)
 - [ESP32-C61-DevKitC-1](esp32/esp32-c61-devkitc-1/readme.md)
 - [Beetle ESP32 C6](esp32/beetle-esp32-c6/readme.md)

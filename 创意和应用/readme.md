@@ -79,3 +79,4 @@
 - [采用 TUFTY 2350 和 MLX90640 制作热像仪](build-a-thermal-camera-with-tufty-2350/readme.md)
 - [USB 摩尔码键盘](usb摩尔码键盘/readme.md)
 - [LAMPy](lampy/readme.md)
+- [我的世界 GPS 指南针](我的世界gps指南针/readme.md)

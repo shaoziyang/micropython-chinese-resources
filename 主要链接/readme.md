@@ -13,6 +13,7 @@
     - [ESP32-C3](https://micropython.org/download/ESP32_GENERIC_C3/)
     - [ESP32-C5](https://micropython.org/download/ESP32_GENERIC_C5/)
     - [ESP32-C6](https://micropython.org/download/ESP32_GENERIC_C6/)
+    - [ESP32-H2](https://micropython.org/download/ESP32_GENERIC_H2/)
     - [ESP32-P4](https://micropython.org/download/ESP32_GENERIC_P4/)
     - [ESP32-S2](https://micropython.org/download/ESP32_GENERIC_S2/)
     - [ESP32-S3](https://micropython.org/download/ESP32_GENERIC_S3/)

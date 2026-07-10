@@ -271,3 +271,6 @@ conn.close()
 * [MIDI 协议规范](https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message)
 * [ESP32 文档](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 * [Raspberry Pi Pico W 文档](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+**原文链接**
+* https://www.pythontutorials.net/blog/midi-over-wifi-micropython/

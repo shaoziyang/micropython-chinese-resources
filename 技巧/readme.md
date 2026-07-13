@@ -15,5 +15,6 @@
 - [自学习时钟](自学习时钟/readme.md)
 - [使用memoryview](使用memoryview/readme.md)
 - [通过 dict 一次性载入多个参数](通过dict一次性载入多个参数/readme.md)
+- [自动判断系统](自动判断系统/readme.md)
 ---
 - [软件使用技巧](软件使用技巧/readme.md)

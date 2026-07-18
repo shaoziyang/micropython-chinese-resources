@@ -1,6 +1,6 @@
 ![](logo.png)
 
-[circuitpython](http://circuitpython.org/)是micropython的分支，它主要面向教育和创客。
+[circuitpython](http://circuitpython.org/)是micropython的主要分支之一，它主要面向教育和创客，提供了众多绑定库，使用上更加简单。但是它删除了一些底层功能，也不支持硬件中断，语法上也存在一定差异。更多不同请参见 [CircuitPython与micropython的主要区别](circuitpython与micropython的主要区别/readme.md)。
 
 - [已有超过600个兼容circuitpython的开发板](已有超过600个兼容circuitpython的开发板/readme.md)
 - [不同版本和mcu性能对比](不同版本和mcu性能对比/readme.md)

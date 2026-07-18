@@ -13,6 +13,8 @@ LCD1602 的 74HC595 驱动，速度比 I2C 接口的 LCD1602 速度快很多，�
 
 使用方法
 
+先将[LCD1602 595 的驱动文件](https://gitee.com/shaoziyang/micropython-chinese-resources/tree/master/MicroPython库/第三方库/中文社区驱动库/lcd1602_595)复制到开发板或设备，然后使用 GPIO 或者 SPI 方式使用。
+
 ```python
 from machine import Pin, SoftSPI
 from time import sleep_ms

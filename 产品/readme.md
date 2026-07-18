@@ -1,5 +1,7 @@
 # 产品
 
+一些使用micropython开发的产品。
+
 - [numworks 计算器](numworks/readme.md)
 - [PyMateIO](pymateio/readme.md)
 - [ECM50-A系列可编程工控机](ecm50/readme.md)

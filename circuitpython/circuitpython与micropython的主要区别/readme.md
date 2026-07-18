@@ -18,7 +18,7 @@
 - 自动加载状态将在整个重新加载过程中保持。
 - 添加一个安全模式，在硬崩溃或掉电后不再运行用户代码。在崩溃后通过大容量存储更容易修复导致严重崩溃的代码。修复后通过复位回到正常模式。
 - RGB LED指示CircuitPython 状态，通过不同色彩指示电路状态和错误。
-- 在文件写入USB大容量存储后重新运行code.py或其他主文件。（使用supervisor.disable_autoreload()禁用)
+- 在文件写入USB大容量存储后重新运行code.py或其他主文件。（使用`supervisor.disable_autoreload()`禁用）
 - 在主代码完成后需要通过按键进入REPL，并禁用自动加载。
 - 主程序可以是这几个文件其中之一：code.txt, code.py, main.py, main.txt
 - 引导文件可以是这几个文件其中之一：settings.txt, settings.py, boot.py, boot.txt

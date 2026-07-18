@@ -43,7 +43,7 @@ while True:
 
 ## proteus 模拟效果
 
-![](../../../../开发软件/模拟运行/proteus仿真/bmp280.gif)
+![](bmp280.gif)
 
 
 ## 相关链接

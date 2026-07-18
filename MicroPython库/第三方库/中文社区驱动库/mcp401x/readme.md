@@ -37,4 +37,4 @@ mcp.write(50)
 
 ## proteus 模拟效果
 
-![](../../../../开发软件/模拟运行/proteus仿真/mcp401x.gif)
+![](mcp401x.gif)

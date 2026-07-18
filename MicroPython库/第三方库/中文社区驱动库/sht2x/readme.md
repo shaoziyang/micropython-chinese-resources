@@ -36,7 +36,7 @@ while 1:
 
 ## proteus 仿真效果
 
-![](../../../../开发软件/模拟运行/proteus仿真/sht21.gif)
+![](sht21.gif)
 
 ## 相关链接
 

@@ -11,6 +11,7 @@ micropython 中文社区开发、整理的各种传感器驱动、例程等。
 **部分驱动说明**
 
 - [I2C LCD1602](i2c_lcd1602/readme.md)
+- [LCD1602 595](lcd1602_595/readme.md)
 - [I2C LCD1602 大数字](lcd1602-big-digits/readme.md)
 - [NTC 热敏电阻](ntc/readme.md)
 - [bmp180 气压传感器](bmp180/readme.md)

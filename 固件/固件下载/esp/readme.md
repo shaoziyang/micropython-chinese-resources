@@ -33,7 +33,7 @@ Flash Download Tool 支持 esp 全系列的芯片，运行后需要先选择芯�
    
 设置好参数就可以点击 ERASE 擦除芯片内容和 START 下载固件。注意目前不同型号的芯片固件对应的起始地址是不同的:
 
-- 0x0000: esp32-c2、esp32-c3、esp32-c6、esp32-s3
+- 0x0000: esp32-c2、esp32-c3、esp32-c6、esp32-s3、esp32-h2
 - 0x1000: esp32、esp32-s2
 - 0x2000: esp32-c5、esp32-p4
    

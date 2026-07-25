@@ -20,6 +20,7 @@
 - [树莓派 Pico 2 超频指南](树莓派pico2超频实验/readme.md)
 - [CircuitPython/MicroPython Filesystem](circuitpython-filesystem/readme.md)
 - [micro:bit 群模拟器](swarm_sim/readme.md)
+- [超级任天堂上的 MicroPython](超级任天堂上的micropython/readme.md)
 
 ---
 

@@ -80,3 +80,4 @@
 - [USB 摩尔码键盘](usb摩尔码键盘/readme.md)
 - [LAMPy](lampy/readme.md)
 - [我的世界 GPS 指南针](我的世界gps指南针/readme.md)
+- [Pico Computer 3](pico_computer_3/readme.md)

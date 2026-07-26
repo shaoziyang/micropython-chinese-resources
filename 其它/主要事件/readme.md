@@ -2,7 +2,7 @@
 
 - ……
 - 2026年 7月21日，[添加 psoc-edge 支持](https://github.com/micropython/micropython/commit/6bff2b06f26df47effd9f20f0759fd216c6c469a)
-- 2026年 7月17日，[删除单独 PowerPC 移植](https://github.com/micropython/micropython/commit/9c87c8e87f2c7f0284041b3122765b349f06e655)
+- 2026年 7月17日，[删除 PowerPC 移植](https://github.com/micropython/micropython/commit/9c87c8e87f2c7f0284041b3122765b349f06e655)
 - 2026年 7月 6日，[添加 esp32h2 支持](https://github.com/micropython/micropython/commit/c8e440ea33a79a4f83132d81b3ab9e3fb11da8fas)
 - 2026年 5月15日，[支持 ESPNOW 2.0](https://github.com/micropython/micropython/commit/cfdace9745fdd5063465d45c611b27efa09576ec)
 - 2026年 4月 6日，[发布 1.28版：ALIF 和 STM32 上的 PWM，新的 machine.CAN API、t-strings 和 weakref 模块](https://github.com/micropython/micropython/releases/tag/v1.28.0)

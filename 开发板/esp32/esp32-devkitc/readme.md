@@ -6,7 +6,7 @@
 
 ## 引脚图
 
-![](esp32-devkitc-v4-pinout.webp)
+![](esp32-devkitC-v4-pinout.webp)
 
 ## 相关链接
 

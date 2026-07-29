@@ -75,6 +75,12 @@ MicroPython 编程方面的相关书籍。
 
 <hr>
 
+* [MicroPython In WEB Applications](https://www.amazon.com/-/zh/dp/B07QCJ5NJW)
+
+![](micropython-in-web-applications.webp)
+
+<hr>
+
 ## 其它
 
 * [Bridging the TinyML Language Gap with MicroPython and Emlearn](https://github.com/jonnor/embeddedml/tree/master/presentations/EmbeddedWorld2025)

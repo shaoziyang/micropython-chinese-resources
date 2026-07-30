@@ -16,5 +16,5 @@
 
 这些分层展示共同将时间从简单的数字数据转化为生动的视觉表现——它不仅仅是供人阅读的内容，更是能在空间中动态展现和演变的东西。   
 
-- [项目说明](https://www.instructables.com/Retro-Futuristic-Hybrid-Clock/%20)   
+- [项目说明](https://www.instructables.com/Retro-Futuristic-Hybrid-Clock/)   
 - [github 代码](https://github.com/YakrooThai/Contests/blob/main/Instructables/Retro-Futuristic-Clock.py)   

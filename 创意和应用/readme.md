@@ -81,3 +81,4 @@
 - [LAMPy](lampy/readme.md)
 - [我的世界 GPS 指南针](我的世界gps指南针/readme.md)
 - [Pico Computer 3](pico_computer_3/readme.md)
+- [在反显LCD上构建天气主屏幕](在反显lcd上构建天气主屏幕/readme.md)

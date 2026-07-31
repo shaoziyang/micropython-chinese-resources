@@ -6,3 +6,4 @@ MicroPython 编程方面的相关书籍（部分图书网上有 pdf 版本）。
 - [Programming with MicroPython](programming_with_micropython/readme.md)
 - [Python for Microcontrollers: Getting Started with MicroPython](python_for_microcontrollers/readme.md)
 - [Beginning MicroPython with the Raspberry Pi Pico](beginning_micropython_with_the_raspberry_pi_pico/readme.md)
+- [Get started with MicroPython on Raspberry Pi Pico: The Official Raspberry Pi Pico Guide](get_started_with_micropython_on_raspberry_pi_pico/readme.md)

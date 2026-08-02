@@ -1,4 +1,4 @@
-# Programming the ESP32 in MicroPython
+# Programming the ESP32 in MicroPython（用MicroPython编程ESP32）
 
 ![](programming_the_esp32_in_micropython.webp)
 

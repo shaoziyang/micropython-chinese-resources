@@ -1,4 +1,4 @@
-# MicroPython Projects: A do-it-yourself guide for embedded developers to build a range of applications using Python
+# MicroPython Projects: A do-it-yourself guide for embedded developers to build a range of applications using Python（MicroPython项目：嵌入式开发人员使用Python构建应用程序的自助指南）
 
 ![](micropython_projects.webp)
 

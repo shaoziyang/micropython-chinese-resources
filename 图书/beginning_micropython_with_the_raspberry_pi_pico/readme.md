@@ -1,4 +1,4 @@
-# Beginning MicroPython with the Raspberry Pi Pico
+# Beginning MicroPython with the Raspberry Pi Pico（从Raspberry Pi Pico开始MicroPython）
 
 ![](beginning_micropython_with_the_raspberry_pi_pico.webp)
 

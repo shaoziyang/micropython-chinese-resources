@@ -1,4 +1,4 @@
-# Python for Microcontrollers: Getting Started with MicroPython
+# Python for Microcontrollers: Getting Started with MicroPython（微控制器Python：MicroPython入门）
 
 ![](python_for_microcontrollers.webp)
 

@@ -1,4 +1,4 @@
-# Programming with MicroPython
+# Programming with MicroPython（用MicroPython编程）
 
 ![](programming_with_micropython.webp)
 

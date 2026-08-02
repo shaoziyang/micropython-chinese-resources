@@ -1,4 +1,4 @@
-# MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python
+# MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python（用于Raspberry Pi Pico W的MicroPython：用Python编程数字电路的介绍）
 
 ![](micropython_for_the_raspberry_pi_pico_w.webp)
 

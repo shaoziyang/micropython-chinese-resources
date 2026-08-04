@@ -12,3 +12,4 @@ MicroPython 编程方面的相关书籍（部分图书网上有 pdf 版本）。
 - [MicroPython Cookbook: Over 110 practical recipes for programming embedded systems and microcontrollers with Python（MicroPython食谱：使用Python编程嵌入式系统和微控制器的110多种实用食谱）](micropython_cookbook/readme.md)
 - [MicroPython Projects: A do-it-yourself guide for embedded developers to build a range of applications using Python（MicroPython项目：嵌入式开发人员使用Python构建应用程序的自助指南）](micropython_projects/readme.md)
 - [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers（用于物联网的MicroPython：在微控制器上使用Python编程的初学者指南）](micropython_for_the_internet_of_things/readme.md)
+- [MicroPython Inline Assembler By Example（MicroPython内联汇编程序示例）](micropython_inline_assembler_by_example/readme.md)

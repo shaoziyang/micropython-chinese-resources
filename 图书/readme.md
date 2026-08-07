@@ -17,3 +17,4 @@ MicroPython 编程方面的相关书籍（部分图书网上有 pdf 版本）。
 
 - 其它
   - [Bridging the TinyML Language Gap with MicroPython and Emlearn（用MicroPython和Emlearn弥合TinyML语言鸿沟）](其它/bridging-the-tinyml-language-gap-with-micropython-and-emlearn/readme.md)
+  - [Sensor data processing on microcontrollers with MicroPython（基于MicroPython的微控制器传感器数据处理）](其它/sensor-data-processing-on-microcontrollers-with-micropython/readme.md)

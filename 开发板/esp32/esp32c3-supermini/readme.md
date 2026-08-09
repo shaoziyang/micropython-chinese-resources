@@ -14,6 +14,8 @@
 
 ![](esp32c3-supermini-sch.webp)
 
+ESP32C3 SuperMini 虽然小巧方便，但是网上有多个不同厂家版本，造成wifi信号有很大差异，有些较差的开发板甚至无法发出信号，下面是一个改善天线效果的说明：
+- https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/
 
 ## 相关链接
 - [开发板说明](https://www.nologo.tech/product/esp32/esp32c3/esp32c3supermini/esp32C3SuperMini.html)

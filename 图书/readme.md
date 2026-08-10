@@ -15,6 +15,7 @@ MicroPython 编程方面的相关书籍（部分图书网上有 pdf 版本）。
 - [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers（用于物联网的MicroPython：在微控制器上使用Python编程的初学者指南）](micropython_for_the_internet_of_things/readme.md)
 - [MicroPython Inline Assembler By Example（MicroPython内联汇编程序示例）](micropython_inline_assembler_by_example/readme.md)
 - [MicroPython In WEB Applications（WEB应用程序中的MicroPython）](micropython-in-web-applications/readme.md)
+- [The MicroPython Handbook for Beginners: Your Essential Guide to Programming Microcontrollers and Creating IoT Projects（MicroPython初学者手册：微控制器编程和创建物联网项目的基本指南）](the-micropython-handbook-for-beginners/readme.md)
 
 - 其它
   - [Bridging the TinyML Language Gap with MicroPython and Emlearn（用MicroPython和Emlearn弥合TinyML语言鸿沟）](其它/bridging-the-tinyml-language-gap-with-micropython-and-emlearn/readme.md)

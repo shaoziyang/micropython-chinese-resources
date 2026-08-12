@@ -1,4 +1,4 @@
-# MicroPython In WEB Applications（WEB应用程序中的MicroPython）
+# WEB应用程序中的MicroPython (MicroPython In WEB Applications)
 
 ![](micropython-in-web-applications.webp)
 

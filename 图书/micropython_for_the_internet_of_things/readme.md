@@ -1,4 +1,4 @@
-# MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers（用于物联网的MicroPython：在微控制器上使用Python编程的初学者指南）
+# 用于物联网的MicroPython：在微控制器上使用Python编程的初学者指南 (MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers)
 
 ![](micropython_for_the_internet_of_things.webp)
 

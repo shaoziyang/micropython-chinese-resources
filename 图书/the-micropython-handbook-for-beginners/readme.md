@@ -1,4 +1,4 @@
-# The MicroPython Handbook for Beginners: Your Essential Guide to Programming Microcontrollers and Creating IoT Projects（MicroPython初学者手册：微控制器编程和创建物联网项目的基本指南）
+# MicroPython初学者手册：微控制器编程和创建物联网项目的基本指南 (The MicroPython Handbook for Beginners: Your Essential Guide to Programming Microcontrollers and Creating IoT Projects)
 
 ![](the-micropython-handbook-for-beginners.webp)
 

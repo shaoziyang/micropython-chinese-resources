@@ -1,4 +1,4 @@
-# Programming ESP32: Learn MicroPython Coding and Electronics (MonkMakes Embedded Programming)（ESP32编程：学习MicroPython编程和电子学）
+# ESP32编程：学习MicroPython编程和电子学 (Programming ESP32: Learn MicroPython Coding and Electronics) (MonkMakes Embedded Programming)
 
 ![](learn-micropython-coding-and-electronics.webp)
 

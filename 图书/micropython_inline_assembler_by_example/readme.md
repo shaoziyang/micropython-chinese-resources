@@ -1,4 +1,4 @@
-# MicroPython Inline Assembler By Example（MicroPython内联汇编程序示例）
+# MicroPython内联汇编程序示例 (MicroPython Inline Assembler By Example)
 
 ![](micropython_inline_assembler_by_example.webp)
 

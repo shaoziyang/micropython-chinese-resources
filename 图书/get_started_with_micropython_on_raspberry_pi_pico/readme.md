@@ -1,4 +1,4 @@
-# Get started with MicroPython on Raspberry Pi Pico: The Official Raspberry Pi Pico Guide（开始在Raspberry Pi Pico上使用MicroPython：官方Raspberry Pi Pico指南）
+# 开始在Raspberry Pi Pico上使用MicroPython：官方Raspberry Pi Pico指南 (Get started with MicroPython on Raspberry Pi Pico: The Official Raspberry Pi Pico Guide)
 
 ![](get_started_with_micropython_on_raspberry_pi_pico.webp)
 

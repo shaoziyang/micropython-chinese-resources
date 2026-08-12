@@ -1,4 +1,4 @@
-# MicroPython Cookbook: Over 110 practical recipes for programming embedded systems and microcontrollers with Python（MicroPython食谱：使用Python编程嵌入式系统和微控制器的110多种实用食谱）
+# MicroPython食谱：使用Python编程嵌入式系统和微控制器的110多种实用食谱 (MicroPython Cookbook: Over 110 practical recipes for programming embedded systems and microcontrollers with Python)
 
 ![](micropython_cookbook.webp)
 

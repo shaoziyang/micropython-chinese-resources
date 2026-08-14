@@ -21,6 +21,7 @@
 - [CircuitPython/MicroPython Filesystem](circuitpython-filesystem/readme.md)
 - [micro:bit 群模拟器](swarm_sim/readme.md)
 - [超级任天堂上的 MicroPython](超级任天堂上的micropython/readme.md)
+- [比特币钱包 COLDCARD 漏洞事件](比特币钱包coldcard漏洞事件/readme.md)
 
 ---
 

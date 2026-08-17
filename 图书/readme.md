@@ -35,6 +35,8 @@ MicroPython for STM32 Nucleo Technical Workshop](micropython-for-stm32-nucleo-te
 Electronics & MicroPython© with ESP32©: 80 complete projects](electronics-and-micropython/readme.md)
 - [面向绝对初学者的MicroPython和CircuitPython：嵌入式系统可视化指南  
 MicroPython and CircuitPython for Absolute Beginners : A Visual Guide to Embedded Systems](micropython-and-circuitpython-for-absolute-beginners/readme.md)
+- [MICROPYTHON和CIRCUITPYTHON：微控制器上python的完整指南：在RP2040、RP2350和ESP32硬件上构建物联网传感器、BLE设备、显示器和自动化项目  
+MICROPYTHON AND CIRCUITPYTHON: THE COMPLETE GUIDE TO PYTHON ON MICROCONTROLLERS: Build IoT Sensors, BLE Devices, Displays, and Automated Projects on RP2040, RP2350, and ESP32 Hardware](the-complete-guide-to-python-on-microcontrollers/readme.md)
 
 - 其它
   - [Bridging the TinyML Language Gap with MicroPython and Emlearn  
